@@ -1,0 +1,309 @@
+Title,DOI,Year,Source,Count
+"Solving The&nbsp;Instance Identification Problem In&nbsp;Micro-Service Testing","10.1007/978-3-031-04673-5_15",2021,"ACM, SCOPUS, SPRINGER",3
+"AST '22: Proceedings of the 3rd ACM/IEEE International Conference on Automation of Software Test","",2022,"ACM",1
+"Beginning Build and Release Management with TFS 2017 and VSTS: Leveraging Continuous Delivery for Your Business","",2017,"ACM",1
+"Test-As-a-Service Application to Security Testing","",2016,"ACM",1
+"An Architecture to Automate Performance Tests on Microservices","10.1145/3011141.3011179",2016,"ACM, SCOPUS",2
+"Automatic Ex-Vivo Regression Testing of Microservices","10.1145/3387903.3389309",2020,"ACM, SCOPUS",2
+"Comparison of Open-Source Runtime Testing Tools for Microservices","10.1007/s11219-022-09583-4",2022,"ACM, SCOPUS, SPRINGER",3
+"What Makes Test Programs Similar in Microservices Applications?","10.1016/j.jss.2023.111674",2023,"ACM, SCOPUS",2
+"Challenges in Regression Test Selection for End-to-End Testing of Microservice-Based Software Systems","10.1145/3524481.3527217",2022,"ACM, IEEE, SCOPUS",3
+"NxtUnit: Automated Unit Test Generation for Go","10.1145/3593434.3593443",2023,"ACM",1
+"API Testing Recipes in Ruby: The Problem Solving Guide to API Testing (Volume 7)","",2016,"ACM",1
+"Industry Practices and Challenges for the Evolvability Assurance of Microservices: An Interview Study and Systematic Grey Literature Review","10.1007/s10664-021-09999-9",2021,"ACM, SCOPUS, SPRINGER",3
+"A Discrete Dynamic Artificial Bee Colony with Hyper-Scout for RESTful Web Service API Test Suite Generation","10.1016/j.asoc.2021.107246",2021,"ACM, SCOPUS",2
+"Clean Code in Python: Refactor Your Legacy Code Base","",2018,"ACM",1
+"Gym-Suite an Extensible Platform for Gyms Management","",2021,"ACM",1
+"EvoMaster: Evolutionary Multi-context Automated System Test Generation","10.1109/ICST.2018.00046",2018,"IEEE, SCOPUS",2
+"Quality Assurance of Micro-Services - When to trust your micro-service test results?","10.1109/QRS-C55045.2021.00024",2021,"IEEE, SCOPUS",2
+"Efficient software test management system based on microservice architecture","10.1109/ITAIC54216.2022.9836605",2022,"IEEE, SCOPUS",2
+"Testing for Event-Driven Microservices Based on Consumer-Driven Contracts and State Models","10.1109/APSEC57359.2022.00064",2022,"IEEE, SCOPUS",2
+"Synthetic Runtime Monitoring of Microservices Software Architecture","10.1109/COMPSAC.2018.10274",2018,"IEEE, SCOPUS",2
+"Research on Microservice Application Testing System","10.1109/ICISCAE51034.2020.9236829",2020,"IEEE, SCOPUS",2
+"Lihonga — A Microservice-Based Virtual Learning Environment","10.1109/ICALT.2018.00030",2018,"IEEE",1
+"Microservices Integrated Performance and Reliability Testing","10.1145/3524481.3527233",2022,"IEEE, SCOPUS",2
+"Automation of regression test in microservice architecture","10.1109/ICWR.2018.8387249",2018,"IEEE, SCOPUS",2
+"A simple, lightweight framework for testing RESTful services with TTCN-3","10.1109/QRS-C51114.2020.00089",2020,"IEEE, SCOPUS",2
+"Design and implementation of online judgment system based on microservice architecture and Docker","10.1109/AEMCSE55572.2022.00150",2022,"IEEE, SCOPUS",2
+"An Automatic Test Data Generation Method for Microservice Application","10.1109/ICCEA50009.2020.00048",2020,"IEEE, SCOPUS",2
+"Comparison of Runtime Testing Tools for Microservices","10.1109/COMPSAC.2019.10232",2019,"IEEE, SCOPUS",2
+"Testing Microservices Architecture-Based Applications: A Systematic Mapping Study","10.1109/APSEC51365.2020.00020",2020,"IEEE, SCOPUS",2
+"Policy enforcement upon software based on microservice architecture","10.1109/SERA.2017.7965739",2017,"IEEE",1
+"Run-Time Reliability Estimation of Microservice Architectures","10.1109/ISSRE.2018.00014",2018,"IEEE, SCOPUS",2
+"Inferring Relations Among Test Programs in Microservices Applications","10.1109/SOSE52839.2021.00018",2021,"IEEE",1
+"Applying Change Impact Analysis Test to Migration Test Case Extraction Based on IDAU and Graph Analysis Techniques","10.1109/ICSTW.2019.00041",2019,"IEEE, SCOPUS",2
+"Architecting Continuous Integration and Continuous Deployment for Microservice Architecture","10.1109/INFOTEH51037.2021.9400696",2021,"IEEE",1
+"EMB: A Curated Corpus of Web/Enterprise Applications And Library Support for Software Testing Research","10.1109/ICST57152.2023.00047",2023,"IEEE",1
+"Telemetry-Based Software Failure Prediction by Concept-Space Model Creation","10.1109/QRS57517.2022.00030",2022,"IEEE, SCOPUS",2
+"Automated Fault-Tolerance Testing","10.1109/ICSTW.2016.34",2016,"IEEE, SCOPUS",2
+"Smoke Testing of Cloud Systems","10.1109/ICST53961.2022.00016",2022,"IEEE",1
+"An Open-Source Cloud Testbed for Security Experimentation","10.1109/CCGrid54584.2022.00086",2022,"IEEE",1
+"Design Quality Measurement for Service Oriented Software on Service Computing System: a Systematic Literature Review","10.1109/ICITSI.2018.8696092",2018,"IEEE, SCOPUS",2
+"RESTful API Automated Test Case Generation","10.1109/QRS.2017.11",2017,"IEEE, SCOPUS",2
+"RESTTESTGEN: Automated Black-Box Testing of RESTful APIs","10.1109/ICST46399.2020.00024",2020,"IEEE",1
+"The Next Level of Test Automation (NEXTA 2020)","10.1109/ICSTW50294.2020.00013",2020,"IEEE",1
+"ExVivoMicroTest: ExVivo Testing of Microservices","10.1002/smr.2452",2023,"SCOPUS",1
+"DevOpRET: Continuous reliability testing in DevOps","10.1002/smr.2298",2023,"SCOPUS",1
+"DeLag: Using Multi-Objective Optimization to Enhance the Detection of Latency Degradation Patterns in Service-Based Systems","10.1109/TSE.2023.3266041",2023,"SCOPUS",1
+"Microservices, a Step from the Low-Code to the No-Code","10.1007/978-3-031-20601-6_64",2023,"SCOPUS",1
+"Construction of Electricity Charge Information Management System Based on Network Microservice Technology","10.1007/978-981-19-3632-6_35",2023,"SCOPUS, SPRINGER",2
+"Towards a Fault Taxonomy for Microservices-Based Applications","10.1145/3555228.3555245",2022,"SCOPUS",1
+"A fault injection platform for learning AIOps models","10.1145/3551349.3559503",2022,"SCOPUS",1
+"Does PageRank apply to service ranking in microservice regression testing?","10.1007/s11219-021-09579-6",2022,"SCOPUS, SPRINGER",2
+"Automated black-box testing of nominal and error scenarios in RESTful APIs","10.1002/stvr.1808",2022,"SCOPUS",1
+"Automatic generation of smoke test suites for kubernetes","10.1145/3533767.3543298",2022,"SCOPUS",1
+"Facilitating the hybridization of parallel evolutionary algorithms in cluster computing environments","10.1145/3520304.3533997",2022,"SCOPUS",1
+"RESTful API Testing Methodologies: Rationale, Challenges, and Solution Directions","10.3390/app12094369",2022,"SCOPUS",1
+"Automatic analysis of attack graphs for risk mitigation and prioritization on large-scale and complex networks in Industry 4.0","10.1007/s10207-020-00533-4",2022,"SCOPUS",1
+"Creating Microservices and using infrastructure as code within the CI/CD for dynamic container creation","10.1109/Informatics57926.2022.10083442",2022,"SCOPUS",1
+"MiSim: A Simulator for Resilience Assessment of Microservice-Based Architectures","10.1109/QRS57517.2022.00105",2022,"SCOPUS",1
+"An Empirical Analysis of Microservices Systems Using Consumer-Driven Contract Testing","10.1109/SEAA56994.2022.00022",2022,"SCOPUS",1
+"A Study on the Aging and Fault Tolerance of Microservices in Kubernetes","10.1109/ACCESS.2022.3231191",2022,"SCOPUS",1
+"Implementing Test Driven Development in the Big Data Domain: A Movie Recommendation System as an Exemplary Case","10.5220/0011085600003194",2022,"SCOPUS",1
+"PUTraceAD: Trace Anomaly Detection with Partial Labels based on GNN and PU Learning","10.1109/ISSRE55969.2022.00032",2022,"SCOPUS",1
+"Moving Toward the Obsolescence of Obsolescence: A Walk in the Clouds","10.1109/AUTOTESTCON47462.2022.9984719",2022,"SCOPUS",1
+"Building Secure Environments for Microservices","10.1109/SRMC57347.2022.00008",2022,"SCOPUS",1
+"LICOR: Beyond the Design System. A Proposal to Empower Teams to Develop Software in Compliance with the Principles of Accessibility, Usability, and Privacy by Design in the Extreme Contexts and Challenging Domains Post-COVID-19","10.1007/978-3-031-19679-9_18",2022,"SCOPUS",1
+"Proceedings of 2022 IEEE 13th International Conference on Software Engineering and Service Science, ICSESS 2022","",2022,"SCOPUS",1
+"Microvision: Static analysis-based approach to visualizing microservices in augmented reality","10.1109/SOSE55356.2022.00012",2022,"SCOPUS",1
+"Formal translation of YAWL workflow models to the Alloy formal specifications: a testing application","10.1007/s10270-022-01043-8",2022,"SCOPUS, SPRINGER",2
+"Leveraging composability in model-based testing for microservices","",2022,"SCOPUS",1
+"Overview of Information System Testing Technology Under the “CLOUD + MIcroservices�? Mode","10.1007/978-3-031-17422-3_6",2022,"SCOPUS, SPRINGER",2
+"2nd International Conference on Computer and Communication Engineering, CCCE 2022","",2022,"SCOPUS",1
+"Assessing Black-box Test Case Generation Techniques for Microservices","10.1007/978-3-031-14179-9_4",2022,"SCOPUS, SPRINGER",2
+"15th International Conference on the Quality of Information and Communications Technology, QUATIC 2022","",2022,"SCOPUS",1
+"Design, implementation, and testing of a microservices-based Digital Twins framework for network management and control","10.1109/WoWMoM54355.2022.00092",2022,"SCOPUS",1
+"Proceedings - 3rd ACM/IEEE International Conference on Automation of Software Test, AST 2022","",2022,"SCOPUS",1
+"Record and Replay of Online Traffic for Microservices with Automatic Mocking Point Identification","10.1109/ICSE-SEIP55303.2022.9793867",2022,"SCOPUS",1
+"2022 IEEE 19th International Conference on Software Architecture Companion, ICSA-C 2022","",2022,"SCOPUS",1
+"33rd IFIP WG 6.1 International Conference on Testing Software Systems, ICTSS 2021","",2022,"SCOPUS",1
+"Usability of Computer-Aided Translation Software Based on Deep Learning Algorithms","10.1155/2022/9047053",2022,"SCOPUS",1
+"Intelligent Systems Conference, IntelliSys 2021","",2022,"SCOPUS",3
+"Development Support for Intelligent Systems: Test, Evaluation, and Analysis of Microservices","10.1007/978-3-030-82193-7_58",2022,"SCOPUS, SPRINGER",2
+"Automated System and Domain-Specific Language for Medical Data Collection and Processing","10.1007/978-3-030-82014-5_25",2022,"SCOPUS",1
+"Dynamic and Resource-Aware Scheduling Scheme for Docker Cluster","10.1007/978-3-030-81007-8_110",2022,"SCOPUS",1
+"Service-level fault injection testing","10.1145/3472883.3487005",2021,"SCOPUS",1
+"3MileBeach: A tracer with teeth","10.1145/3472883.3486986",2021,"SCOPUS",1
+"Microservice Test Suite Minimization Technology Based on Logs Mining [基于日志挖掘的微�?务测试集缩�?技术]","10.13328/j.cnki.jos.006075",2021,"SCOPUS",1
+"Observability and chaos engineering on system calls for containerized applications in Docker","10.1016/j.future.2021.04.001",2021,"SCOPUS",1
+"Intellectual mathematical support software and inner architecture of lms mai class.net [В�?УТРЕ�?�?ЯЯ �?РХИТЕКТУР�? СДО М�?И CLASS.NET И ЕЕ КОМПЛЕКС М�?ТЕМ�?ТИЧЕСКОЙ ПОДДЕРЖКИ]","10.14529/mmp210304",2021,"SCOPUS",1
+"Faster, deeper, easier: Crowdsourcing diagnosis of microservice kernel failure from user space","10.1145/3460319.3464805",2021,"SCOPUS",1
+"HeTong: A Voice Answering Enabled Multi-language Questionnaire System Based on Spring Cloud","10.1109/ICAICA52286.2021.9498116",2021,"SCOPUS",1
+"Acceptance Tests over Microservices Architecture using Behaviour-Driven Development [Testes de Aceitação com Behaviour-Driven Development em uma Arquitetura de Microsserviços]","10.23919/CISTI52073.2021.9476643",2021,"SCOPUS",1
+"Proceedings - 2021 21st International Conference on Software Quality, Reliability and Security Companion, QRS-C 2021","",2021,"SCOPUS",1
+"Proceedings - 2021 IEEE International Symposium on Software Reliability Engineering Workshops, ISSREW 2021","",2021,"SCOPUS",1
+"My Services Got Old! Can Kubernetes Handle the Aging of Microservices?","10.1109/ISSREW53611.2021.00042",2021,"SCOPUS",1
+"Cipc: A change impact propagation computing based technique for microservice regression testing prioritization","10.1155/2021/2912240",2021,"SCOPUS",1
+"SimulateIoT: Domain Specific Language to Design, Code Generation and Execute IoT Simulation Environments","10.1109/ACCESS.2021.3092528",2021,"SCOPUS",1
+"International Workshop on Structured Object-Oriented Formal Language and Method, SOFL+MSVL 2020","",2021,"SCOPUS",1
+"Proceedings - 2020 IEEE/ACM 1st International Conference on Automation of Software Test, AST 2020","",2020,"SCOPUS",1
+"Proceedings - 2020 25th International Conference on Engineering of Complex Computer Systems, ICECCS 2020","",2020,"SCOPUS",1
+"Checkers: Multi-modal Darwinian API Optimisation","10.1145/3387940.3392173",2020,"SCOPUS",1
+"TDD4Fog: A Test-Driven Software Development Platform for Fog Computing Systems","10.1109/CCGrid49817.2020.00-25",2020,"SCOPUS",1
+"A framework for satisfying the performance requirements of containerized software systems through multi-versioning","10.1145/3358960.3379125",2020,"SCOPUS",1
+"Microservices: A performance tester's dream or nightmare?","10.1145/3358960.3379124",2020,"SCOPUS",1
+"Testing microservice architectures for operational reliability","10.1002/stvr.1725",2020,"SCOPUS",1
+"QuASoQ 2020 - Proceedings of the 8th International Workshop on Quantitative Approaches to Software Quality, co-located with 27th Asia-Pacific Software Engineering Conference, APSEC2020","",2020,"SCOPUS",1
+"21st International Conference on Agile Software Development,XP 2020","",2020,"SCOPUS",1
+"Verification of Microservices Using Metamorphic Testing","10.1007/978-3-030-38991-8_10",2020,"SCOPUS, SPRINGER",2
+"Serverless computing and cloud function-based applications","10.1145/3368235.3370269",2019,"SCOPUS",1
+"Design and Research of Microservice Application Automation Testing Framework","10.1109/ITCA49981.2019.00063",2019,"SCOPUS",1
+"Graph-based and scenario-driven microservice analysis, retrieval, and testing","10.1016/j.future.2019.05.048",2019,"SCOPUS",1
+"Automatic performance monitoring and regression testing during the transition from monolith to microservices","10.1109/ISSREW.2019.00067",2019,"SCOPUS",1
+"Design of Distributed Task Scheduling in East China Power Market Trading System","10.1109/CIEEC47146.2019.CIEEC-201991",2019,"SCOPUS",1
+"JCOMIX: A search-based tool to detect XML injection vulnerabilities in web applications","10.1145/3338906.3341178",2019,"SCOPUS",1
+"Failure-aware application placement modeling and optimization in high turnover devops environment","10.1109/CLOUD.2019.00030",2019,"SCOPUS",1
+"ATARI: Autonomous testing and real-time intelligence - A framework for autonomously testing modern applications","10.1109/AITest.2019.000-8",2019,"SCOPUS",1
+"Microservice Architectures for Advanced Driver Assistance Systems: A Case-Study","10.1109/ICSA-C.2019.00016",2019,"SCOPUS",1
+"Test Automation Framework as a Service (TAFaaS) - scale test automation & devops practices with cloud, containers, and microservice.","",2019,"SCOPUS",1
+"Container Orchestration Engines: A Thorough Functional and Performance Comparison","10.1109/ICC.2019.8762053",2019,"SCOPUS",1
+"DevOps architecture in the cloud [Bulut üzerinde DevOps mimarisi]","10.1109/SIU.2019.8806433",2019,"SCOPUS",1
+"Development Activities, Tools and Techniques of Secure Microservices Compositions","10.1007/978-3-030-34339-2_24",2019,"SCOPUS",1
+"Scenario-Based Microservice Retrieval Using Word2Vec","10.1109/ICEBE.2018.00046",2018,"SCOPUS",1
+"ORCAS: Efficient Resilience Benchmarking of Microservice Architectures","10.1109/ISSREW.2018.00-10",2018,"SCOPUS",1
+"An extensible fault tolerance testing framework for microservice-based cloud applications","10.1145/3290420.3290476",2018,"SCOPUS",1
+"Towards executable specifications for microservices","10.1109/SCC.2018.00013",2018,"SCOPUS",1
+"Proceedings - 12th IEEE International Symposium on Service-Oriented System Engineering, SOSE 2018 and 9th International Workshop on Joint Cloud Computing, JCC 2018","",2018,"SCOPUS",1
+"Mutation testing for microservices","",2018,"SCOPUS",1
+"Effective practices for refactoring a legacy Java application into a microservice architecture","",2018,"SCOPUS",1
+"Anomaly detection and diagnosis for container-based microservices with performance monitoring","10.1007/978-3-030-05063-4_42",2018,"SCOPUS",1
+"Introducing an event-based architecture for concurrent and distributed evolutionary algorithms","10.1007/978-3-319-99253-2_32",2018,"SCOPUS",1
+"CEUR Workshop Proceedings","",2018,"SCOPUS",1
+"ACM International Conference Proceeding Series","",2017,"SCOPUS",1
+"Proceedings - 2017 IEEE International Conference on Software Quality, Reliability and Security Companion, QRS-C 2017","",2017,"SCOPUS",1
+"PCCTE: A portable component conformance test environment based on container cloud for avionics software development","10.1109/PIC.2016.7949582",2017,"SCOPUS",1
+"PostgreSQL service with backup and recovery for cloud foundry","10.1109/FRUCT.2016.7584766",2016,"SCOPUS",1
+"CIDE: An integrated development environment for microservices","10.1109/SCC.2016.112",2016,"SCOPUS",1
+"Gremlin: Systematic Resilience Testing of Microservices","10.1109/ICDCS.2016.11",2016,"SCOPUS",1
+"Efficiency analysis of provisioning microservices","10.1109/CloudCom.2016.0051",2016,"SCOPUS",1
+"Microservices: Theory and Application","10.1145/2959689.2960082",2016,"SCOPUS",1
+"SPEC research group's cloud working group: [RG cloud group]","10.1145/2851553.2858675",2016,"SCOPUS",1
+"A service framework for parallel test execution on a developer's local development workstation","10.1109/SOSE.2015.45",2015,"SCOPUS",1
+"13th International Conference on Software Engineering and Formal Methods, SEFM 2015 Collocated with ATSE, HOFM, MoKMaSD, and VERY SCART","",2015,"SCOPUS",1
+"Learning-based testing of distributed microservice architectures: Correctness and fault injection","10.1007/978-3-662-49224-6_1",2015,"SCOPUS, SPRINGER",2
+"Proceedings - International Symposium on Software Reliability Engineering, ISSRE","",2003,"SCOPUS",1
+"On Technical Debt in Software Testing - Observations from Industry","10.1007/978-3-031-19756-7_17",2022,"SPRINGER",1
+"What We Know About Software Architecture Styles in Continuous Delivery and DevOps?","10.1007/978-3-030-52991-8_2",2020,"SPRINGER",1
+"Agile Development Offers the Chance to Establish Automated Quality Procedures","10.1007/978-3-319-64218-5_40",2017,"SPRINGER",1
+"Assuring the Evolvability of Legacy Systems in Devops Transformation/Adoption: Insights of an Experience Report","10.1007/978-3-031-25648-6_3",2023,"SPRINGER",1
+"Continuous Architecting with Microservices and DevOps: A Systematic Mapping Study","10.1007/978-3-030-29193-8_7",2019,"SPRINGER",1
+"Analysis of an Intelligent Optimization Algorithm for Automatic Generation of Computer Software Test Data","10.1007/978-981-19-3632-6_77",2023,"SPRINGER",1
+"Microservices and DevOps for Optimal Benefits from IoT in Manufacturing","10.1007/978-981-15-7234-0_33",2021,"SPRINGER",1
+"PCCP: A Private Container Cloud Platform Supporting Domestic Hardware and Software","10.1007/978-981-19-2456-9_41",2022,"SPRINGER",1
+"Remote Tutoring System of Ideological and Political Course Based on Mobile Client","10.1007/978-3-031-28787-9_26",2023,"SPRINGER",1
+"Data Integration and Quality Requirements in Emergency Services","10.1007/978-3-319-72125-5_17",2018,"SPRINGER",1
+"Urgent and Emergency Care: An Academic Application System Case Study","10.1007/978-3-030-14070-0_21",2019,"SPRINGER",1
+"How to Deliver Faster with CI/CD Integrated Testing Services?","10.1007/978-3-319-97925-0_33",2018,"SPRINGER",1
+"A Multi Case Study on Legacy System Migration in the Banking Industry","10.1007/978-3-030-79382-1_32",2021,"SPRINGER",1
+"Environment-Aware and Human-Centric Software Testing Framework for Cyber-Physical Systems","10.1007/978-3-030-51253-8_11",2020,"SPRINGER",1
+"Virtual Infrastructure Twins: Software Testing Platforms for Computing-Instrument Ecosystems","10.1007/978-3-031-23606-8_10",2022,"SPRINGER",1
+"A Model of Continuous Integration and Deployment of Engineering Software","10.1007/978-3-030-90321-3_64",2021,"SPRINGER",1
+"On Testing Microservice Systems","10.1007/978-3-030-63092-8_40",2021,"SPRINGER",1
+"Model-Based Smoke Testing Approach of Service Oriented Architecture (SOA)","10.1007/978-3-031-11713-8_9",2022,"SPRINGER",1
+"Model Driven Architecture in Containers-Based Software Development","10.1007/978-3-030-32861-0_10",2020,"SPRINGER",1
+"Comparison of End-to-End Testing Tools for Microservices: A Case Study","10.1007/978-3-030-68285-9_39",2021,"SPRINGER",1
+"A Framework for Modelling Variable Microservices as Software Product Lines","10.1007/978-3-319-74781-1_18",2018,"SPRINGER",1
+"DevOps with Continuous Testing Architecture and Its Metrics Model","10.1007/978-981-10-8633-5_28",2018,"SPRINGER",1
+"Automating Software Re-engineering: Introduction to the ISoLA 2022 Track","10.1007/978-3-031-19756-7_11",2022,"SPRINGER",1
+"Aedes Entomological Prediction Analytical Dashboard Application for Dengue Outbreak Surveillance","10.1007/978-3-030-33582-3_6",2020,"SPRINGER",1
+"ElasTest: An Elastic Platform for E2E Testing Complex Distributed Large Software Systems","10.1007/978-3-030-63161-1_20",2020,"SPRINGER",1
+"Selecting and Prioritizing Regression Test Suites by Production Usage Risk in Time-Constrained Environments","10.1007/978-3-030-35510-4_3",2020,"SPRINGER",1
+"Towards Constraint Logic Programming over Strings for Test Data Generation","10.1007/978-3-030-46714-2_10",2020,"SPRINGER",1
+"A Proposal for Integrating DevOps into Software Engineering Curricula","10.1007/978-3-030-06019-0_3",2019,"SPRINGER",1
+"On Persistent Implications of E2E Testing","10.1007/978-3-031-08965-7_16",2022,"SPRINGER",1
+"Exploring Multilateral Cloud Computing Security Architectural Design Debt in Terms of Technical Debt","10.1007/978-981-10-5547-8_59",2018,"SPRINGER",1
+"BizDevOps Support for Business Process Microservices-Based Applications","10.1007/978-3-031-26507-5_22",2023,"SPRINGER",1
+"Software Product Quality in DevOps Contexts: A Systematic Literature Review","10.1007/978-3-030-33547-2_5",2020,"SPRINGER",1
+"Develop Sustainable Software with a Lean ISO 14001 Setup Facilitated by the efiS® Framework","10.1007/978-3-030-94238-0_6",2022,"SPRINGER",1
+"Evaluation of Microservice Architectures: A Metric and Tool-Based Approach","10.1007/978-3-319-92901-9_8",2018,"SPRINGER",1
+"Maximizing Business Potential by Utilizing FinTech Innovative Technologies and Strategies","10.1007/978-3-031-09070-7_53",2022,"SPRINGER",1
+"Making the Case for Centralized Software Architecture Management","10.1007/978-3-319-27033-3_8",2016,"SPRINGER",1
+"Machine Learning Model for the Classification of Musical Composition Genres","10.1007/978-3-030-73280-6_52",2021,"SPRINGER",1
+"RESTest: Black-Box Constraint-Based Testing of RESTful Web APIs","10.1007/978-3-030-65310-1_33",2020,"SPRINGER",1
+"Automated Building of an Environment for Secure Software Development in Web Technologies Courses","10.1007/978-3-031-26876-2_70",2023,"SPRINGER",1
+"Ontology Development Strategies in Industrial Contexts","10.1007/978-3-030-04849-5_14",2019,"SPRINGER",1
+"Crunch: Automated Assessment of Microservice Architecture Assignments with Formative Feedback","10.1007/978-3-030-00761-4_12",2018,"SPRINGER",1
+"Benefits and Drawbacks of Representing and Analyzing Source Code and Software Engineering Artifacts with Graph Databases","10.1007/978-3-030-05767-1_9",2019,"SPRINGER",1
+"Empirical Study of Effectiveness of EvoSuite on the SBST 2020 Tool Competition Benchmark","10.1007/978-3-030-88106-1_9",2021,"SPRINGER",1
+"Microservice Remodularisation of Monolithic Enterprise Systems for Embedding in Industrial IoT Networks","10.1007/978-3-030-79382-1_26",2021,"SPRINGER",1
+"Microservice-Based Agile Architectures: An Opportunity for Specialized Niche Technologies","10.1007/978-3-319-92432-8_10",2018,"SPRINGER",1
+"The IPOL Demo System: A Scalable Architecture of Microservices for Reproducible Research","10.1007/978-3-319-56414-2_1",2017,"SPRINGER",1
+"Developer Operations and Engineering Multi-agent Systems","10.1007/978-3-030-97457-2_10",2022,"SPRINGER",1
+"Automation of Security Scanning Tools Using K8’s Environment for Commercial Telecom Product","10.1007/978-981-16-8550-7_11",2022,"SPRINGER",1
+"A Quantitative Approach for the Assessment of Microservice Architecture Deployment Alternatives by Automated Performance Testing","10.1007/978-3-030-00761-4_11",2018,"SPRINGER",1
+"Towards an Efficient Performance Testing Through Dynamic Workload Adaptation","10.1007/978-3-030-31280-0_13",2019,"SPRINGER",1
+"The Changing Role of the Software Engineer","10.1007/978-3-030-28005-5_53",2019,"SPRINGER",1
+"Developing a Scalable Platform and Analytics Dashboard for Manual Physical Therapy Practices Using Pressure Sensing Fabric","10.1007/978-3-030-70873-3_19",2021,"SPRINGER",1
+"Continuous integration in powertrain software – Today and tomorrow","10.1007/978-3-658-30995-4_47",2020,"SPRINGER",1
+"What Are Critical Success Factors of DevOps Projects? A Systematic Literature Review","10.1007/978-3-030-91983-2_17",2021,"SPRINGER",1
+"Towards Continuous Safety Assessment in Context of DevOps","10.1007/978-3-030-83906-2_11",2021,"SPRINGER",1
+"An Experience Report from the Migration of Legacy Software Systems to Microservice Based Architecture","10.1007/978-3-030-14070-0_26",2019,"SPRINGER",1
+"MockRest—A Generic Approach for Automated Mock Framework for REST APIs Generation","10.1007/978-981-15-0146-3_24",2020,"SPRINGER",1
+"DevSecOps: A Multivocal Literature Review","10.1007/978-3-319-67383-7_2",2017,"SPRINGER",1
+"Towards Autonomous Services for Smart Mobile Devices","10.1007/3-540-36389-0_19",2003,"SPRINGER",1
+"ABC in Root Cause Analysis: Discovering Missing Information and Repairing System Failures","10.1007/978-3-031-25599-1_26",2023,"SPRINGER",1
+"Quality Management of Machine Learning Systems","10.1007/978-3-030-62144-5_1",2020,"SPRINGER",1
+"Distributed Serverless Computing Orchestration Based on Finite Automaton","10.1007/978-3-030-80472-5_25",2021,"SPRINGER",1
+"A Machine to Machine Framework for the Charging of Electric Autonomous Vehicles","10.1007/978-3-030-44038-1_4",2020,"SPRINGER",1
+"Information Support of Scientific Researches of Virtual Communities on the Platform of Cloud Services","10.1007/978-3-030-01069-0_22",2019,"SPRINGER",1
+"Agile Software Process Improvement by Learning from Financial and Fintech Companies: LHV Bank Case Study","10.1007/978-3-030-05767-1_5",2019,"SPRINGER",1
+"API-First Design: A Survey of the State of Academia and Industry","10.1007/978-3-030-97652-1_10",2022,"SPRINGER",1
+"HOTFRED: A Flexible Hotel Fake Review Detection System","10.1007/978-3-030-65785-7_29",2021,"SPRINGER",1
+"A Digital Twin-Based Cyber Range for SOC Analysts","10.1007/978-3-030-81242-3_17",2021,"SPRINGER",1
+"PrescStream: A Framework for Streaming Soft Real-Time Predictive and Prescriptive Analytics","10.1007/978-3-319-62392-4_24",2017,"SPRINGER",1
+"Cloud Native Privacy Engineering through DevPrivOps","10.1007/978-3-030-99100-5_10",2022,"SPRINGER",1
+"A Multivocal Literature Review of Function-as-a-Service (FaaS) Infrastructures and Implications for Software Developers","10.1007/978-3-030-56441-4_5",2020,"SPRINGER",1
+"Beyond Visual and Radio Line of Sight UAVs Monitoring System Through Open Software in a Simulated Environment","10.1007/978-3-030-71503-8_49",2021,"SPRINGER",1
+"Applying AI in Practice: Key Challenges and Lessons Learned","10.1007/978-3-030-57321-8_25",2020,"SPRINGER",1
+"Regulation and Validation Challenges in Artificial Intelligence-Empowered Healthcare Applications—The Case of Blood-Retrieved Biomarkers","10.1007/978-3-031-17583-1_8",2023,"SPRINGER",1
+"Low-Cost, Open-Source Automation System for Education, with Node-RED and Raspberry Pi","10.1007/978-3-319-95678-7_51",2019,"SPRINGER",1
+"Challenges of Low-Code/No-Code Software Development: A Literature Review","10.1007/978-3-031-16947-2_1",2022,"SPRINGER",1
+"Validation of level 4-5 functions with a cloud-based simulation","10.1007/978-3-658-27990-5_1",2020,"SPRINGER",1
+"Enhancing Dependability in Big Data Analytics Enterprise Pipelines","10.1007/978-3-030-05345-1_23",2018,"SPRINGER",1
+"Testing Methods for Blockchain Applications","10.1007/978-3-030-94141-3_32",2022,"SPRINGER",1
+"Teaching Advanced AI Development Techniques with a New Master’s Program in Artificial Intelligence Engineering","10.1007/978-3-031-22941-1_41",2022,"SPRINGER",1
+"From DevOps to DevDataOps: Data Management in DevOps Processes","10.1007/978-3-030-39306-9_4",2020,"SPRINGER",1
+"Sandboxing the Cyberspace for Cybersecurity Education and Learning","10.1007/978-3-030-66504-3_11",2020,"SPRINGER",1
+"VitaApp: Augmentative and Alternative Communication System Aimed at Older Adults","10.1007/978-3-030-89941-7_6",2021,"SPRINGER",1
+"Flowrider: Fast On-Demand Key Provisioning for Cloud Networks","10.1007/978-3-030-90022-9_11",2021,"SPRINGER",1
+"DevOps Adoption Benefits and Challenges in Practice: A Case Study","10.1007/978-3-319-49094-6_44",2016,"SPRINGER",1
+"Pillars for Establishing a Durable and Future-Proof IT Architecture Maturing Along with the NSC: Approaches from Continuous Integration to Service Mesh","10.1007/978-3-030-89902-8_4",2022,"SPRINGER",1
+"Wissenschaftliche Kinder von Günter Hotz","10.1007/978-3-658-37822-6_1",2022,"SPRINGER",1
+"DevOps Challenges in Organizations: Through Professional Lens","10.1007/978-3-031-20706-8_18",2022,"SPRINGER",1
+"Edge Computing in the Extreme for Sustainability","10.1007/978-3-319-67235-9_8",2017,"SPRINGER",1
+"Development of Software for Managing Treadmills Based on Computer Vision","10.1007/978-3-031-22938-1_23",2023,"SPRINGER",1
+"Opunit: Sanity Checks for Computing Environments","10.1007/978-3-030-39306-9_12",2020,"SPRINGER",1
+"Building an open-source system test generation tool: lessons learned and empirical analyses with EvoMaster","10.1007/s11219-023-09620-w",2023,"SPRINGER",1
+"Testing Very Large Database Management Systems: The Case of SAP HANA","10.1007/s13222-022-00426-x",2022,"SPRINGER",1
+"An experience report on applying software testing academic results in industry: we need usable automated test generation","10.1007/s10664-017-9570-9",2018,"SPRINGER",1
+"Automation and intelligent scheduling of distributed system functional testing","10.1007/s10009-016-0440-3",2017,"SPRINGER",1
+"The skills that employers look for in software testers","10.1007/s11219-019-09462-5",2019,"SPRINGER",1
+"The central role of test automation in software quality assurance","10.1007/s11219-017-9383-5",2017,"SPRINGER",1
+"Software Testing in the DevOps Context: A Systematic Mapping Study","10.1134/S0361768822080175",2022,"SPRINGER",1
+"A search-based identification of variable microservices for enterprise SaaS","10.1007/s11704-022-1390-4",2022,"SPRINGER",1
+"Microservices tenets","10.1007/s00450-016-0337-0",2017,"SPRINGER",1
+"Developer discussion topics on the adoption and barriers of low code software development platforms","10.1007/s10664-022-10244-0",2022,"SPRINGER",1
+"Genetic-based web regression testing: an ontology-based multi-objective evolutionary framework to auto-regression testing of web applications","10.1007/s11761-020-00312-y",2021,"SPRINGER",1
+"A microservice-based framework for multi-level testing of cyber-physical systems","10.1007/s11219-023-09639-z",2023,"SPRINGER",1
+"Test them all, is it worth it? Assessing configuration sampling on the JHipster Web development stack","10.1007/s10664-018-9635-4",2019,"SPRINGER",1
+"A benchmark-based evaluation of search-based crash reproduction","10.1007/s10664-019-09762-1",2020,"SPRINGER",1
+"Promises and challenges of microservices: an exploratory study","10.1007/s10664-020-09910-y",2021,"SPRINGER",1
+"Validation of Highly Automated Driving Functions with Cloud-based Simulation","10.1007/s38311-019-0168-2",2020,"SPRINGER",1
+"Evolution of Cloud Operating System: From Technology to Ecosystem","10.1007/s11390-017-1717-z",2017,"SPRINGER",1
+"Towards cost-benefit evaluation for continuous software engineering activities","10.1007/s10664-022-10191-w",2022,"SPRINGER",1
+"An Improved Task Allocation Scheme in Serverless Computing Using Gray Wolf Optimization (GWO) Based Reinforcement Learning (RIL) Approach","10.1007/s11277-020-07981-0",2021,"SPRINGER",1
+"Optimized Sampling Strategies to Model the Performance of Virtualized Network Functions","10.1007/s10922-020-09547-8",2020,"SPRINGER",1
+"A Survey On Log Research Of AIOps: Methods and Trends","10.1007/s11036-021-01832-3",2021,"SPRINGER",1
+"Search-based multi-vulnerability testing of XML injections in web applications","10.1007/s10664-019-09707-8",2019,"SPRINGER",1
+"Automated testing of NFV orchestrators against carrier-grade multi-PoP scenarios using emulation-based smoke testing","10.1186/s13638-019-1493-2",2019,"SPRINGER",1
+"GUEST EDITORIAL Special Issue on Recent Trends in Advanced Computing, Engineering and Technology: Transformation and Innovation","10.1134/S0361768822080114",2022,"SPRINGER",1
+"System Design of Cloud Search Engine Based on Rich Text Content","10.1007/s11036-020-01676-3",2021,"SPRINGER",1
+"A microservice regression testing selection approach based on belief propagation","10.1186/s13677-023-00398-7",2023,"SPRINGER",1
+"Empirical assessment of generating adversarial configurations for software product lines","10.1007/s10664-020-09915-7",2021,"SPRINGER",1
+"Comprehensive Internet Software Platform for Implementation of Digital Projects","10.1134/S1995080221110081",2021,"SPRINGER",1
+"A Systematic Review on Software Architectures for IoT Systems and Future Direction to the Adoption of Microservices Architecture","10.1007/s42979-020-00359-w",2020,"SPRINGER",1
+"DAuth—Delegated Authorization Framework for Secured Serverless Cloud Computing","10.1007/s11277-023-10189-7",2023,"SPRINGER",1
+"Future software organizations – agile goals and roles","10.1007/s40309-017-0123-7",2017,"SPRINGER",1
+"Big data in cybersecurity: a survey of applications and future trends","10.1007/s40860-020-00120-3",2021,"SPRINGER",1
+"Special issue on bio-medical signal processing for smarter mobile healthcare using big data analytics","10.1007/s12652-019-01425-9",2019,"SPRINGER",1
+"RADON: rational decomposition and orchestration for serverless computing","10.1007/s00450-019-00413-w",2020,"SPRINGER",1
+"DICE simulation: a tool for software performance assessment at the design stage","10.1007/s10515-022-00335-z",2022,"SPRINGER",1
+"Analysis of a many-objective optimization approach for identifying microservices from legacy systems","10.1007/s10664-021-10049-7",2022,"SPRINGER",1
+"SPReaD: service-oriented process for reengineering and DevOps","10.1007/s11761-021-00329-x",2022,"SPRINGER",1
+"µBIGMSA-Microservice-Based Model for Big Data Knowledge Discovery: Thinking Beyond the Monoliths","10.1007/s11277-020-07822-0",2021,"SPRINGER",1
+"Enjoy your observability: an industrial survey of microservice tracing and analysis","10.1007/s10664-021-10063-9",2021,"SPRINGER",1
+"Cost-effective learning-based strategies for test case prioritization in continuous integration of highly-configurable software","10.1007/s10664-021-10093-3",2022,"SPRINGER",1
+"An empirical study of architecting for continuous delivery and deployment","10.1007/s10664-018-9651-4",2019,"SPRINGER",1
+"Trends and Trajectories in the Software Industry: implications for the future of work","10.1007/s10796-022-10267-4",2023,"SPRINGER",1
+"Personal programming and the object computer","10.1007/s10270-019-00768-3",2020,"SPRINGER",1
+"Using Machine Learning to Quantify the Multimedia Risk Due to Fuzzing","10.1007/s11042-021-11558-9",2022,"SPRINGER",1
+"AI-based Testing and  Robot Process Automation","10.1007/s38314-020-0570-y",2021,"SPRINGER",1
+"Notes on ensembles of IoT, network functions and clouds for service-oriented computing and applications","10.1007/s11761-018-0228-2",2018,"SPRINGER",1
+"A new EPICS time-series data archiver using HBase","10.1007/s41605-021-00277-2",2021,"SPRINGER",1
+"An Adaptive Elastic Multi-model Big Data Analysis and Information Extraction System","10.1007/s41019-022-00196-2",2022,"SPRINGER",1
+"Refined education mechanism based on edge computing for college student management","10.1007/s12065-022-00803-1",2022,"SPRINGER",1
+"Rotten green tests in Java, Pharo and Python","10.1007/s10664-021-10016-2",2021,"SPRINGER",1
+"Research on internet financial risk control based on deep learning algorithm","10.1007/s00500-023-08409-0",2023,"SPRINGER",1
+"System architectures for Industrie 4.0 applications","10.1007/s11740-019-00902-6",2019,"SPRINGER",1
+"Information Technologies in Problems of Nonlinear Geomechanics. Part II: New Methods, Metadata Models, Geodata Bases and Base Layers of Electronic Charts for a Typical Geoportal of Mining Regions in Siberia","10.1134/S1062739122040135",2022,"SPRINGER",1
+"Mining the use of higher-order functions:","10.1007/s10664-020-09842-7",2020,"SPRINGER",1
+"Topic modeling in software engineering research","10.1007/s10664-021-10026-0",2021,"SPRINGER",1
+"An Empirical Investigation of Relevant Changes and Automation Needs in Modern Code Review","10.1007/s10664-020-09870-3",2020,"SPRINGER",1
+"Static and Dynamic Dependency Visualization in a Layered Software City","10.1007/s42979-022-01404-6",2022,"SPRINGER",1
+"CIoTAS protocol: CloudIoT available services protocol through autonomic computing against distributed denial of services attacks","10.1007/s12652-020-02556-0",2020,"SPRINGER",1
+"A longitudinal explanatory case study of coordination in a very large development programme: the impact of transitioning from a first- to a second-generation large-scale agile development method","10.1007/s10664-022-10230-6",2022,"SPRINGER",1
+"Requirements management in DevOps environments: a multivocal mapping study","10.1007/s00766-023-00396-w",2023,"SPRINGER",1
+"Integrating user experience assessment in Re-CRUD console framework development","10.1007/s11276-022-03098-3",2023,"SPRINGER",1
+"Cytoscape Automation: empowering workflow-based network analysis","10.1186/s13059-019-1758-4",2019,"SPRINGER",1
+"Guest editorial to the theme section on AI-enhanced model-driven engineering","10.1007/s10270-022-00988-0",2022,"SPRINGER",1
+"Guest Editorial: Special issue on quality of adaptive software systems","10.1007/s11219-020-09526-x",2020,"SPRINGER",1
+"Praxisbasierte Capability-Modelle für DevOps-Einsätze in Unternehmen","10.1365/s40702-017-0292-7",2017,"SPRINGER",1
+"Easy Development and Integration of Science Gateways with Vine Toolkit","10.1007/s10723-012-9236-1",2012,"SPRINGER",1
+"A multi-model framework for semantically enhancing detection of quality-related bug report descriptions","10.1007/s10664-022-10280-w",2023,"SPRINGER",1
+"Isabl Platform, a digital biobank for processing multimodal patient data","10.1186/s12859-020-03879-7",2020,"SPRINGER",1
+"A structural-semantic web service selection approach to improve retrievability of web services","10.1007/s10796-016-9731-1",2018,"SPRINGER",1
+"Discovering community patterns in open-source: a systematic approach and its evaluation","10.1007/s10664-018-9659-9",2019,"SPRINGER",1
+"Deep learning-based user experience evaluation in distance learning","10.1007/s10586-022-03918-3",2023,"SPRINGER",1
+"Software mediators as first-class entities of systems-of-systems software architectures","10.1186/s13173-019-0089-3",2019,"SPRINGER",1
+"Cyber-Physical Systems in the Context of Industry 4.0: A Review, Categorization and Outlook","10.1007/s10796-022-10252-x",2022,"SPRINGER",1
+"Keeping Up with the Trends: Analyzing the Dynamics of Online Learning and Hiring Platforms in the Software Programming Domain","10.1007/s40593-020-00231-1",2021,"SPRINGER",1

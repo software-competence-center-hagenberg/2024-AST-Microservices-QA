@@ -1,0 +1,130 @@
+Title,DOI,Year
+"What makes test programs similar in microservices applications?","10.1016/j.jss.2023.111674",2023
+"ExVivoMicroTest: ExVivo Testing of Microservices","10.1002/smr.2452",2023
+"Comparison of open-source runtime testing tools for microservices","10.1007/s11219-022-09583-4",2023
+"DevOpRET: Continuous reliability testing in DevOps","10.1002/smr.2298",2023
+"DeLag: Using Multi-Objective Optimization to Enhance the Detection of Latency Degradation Patterns in Service-Based Systems","10.1109/TSE.2023.3266041",2023
+"Microservices, a Step from the Low-Code to the No-Code","10.1007/978-3-031-20601-6_64",2023
+"Construction of Electricity Charge Information Management System Based on Network Microservice Technology","10.1007/978-981-19-3632-6_35",2023
+"Towards a Fault Taxonomy for Microservices-Based Applications","10.1145/3555228.3555245",2022
+"A fault injection platform for learning AIOps models","10.1145/3551349.3559503",2022
+"Does PageRank apply to service ranking in microservice regression testing?","10.1007/s11219-021-09579-6",2022
+"Automated black-box testing of nominal and error scenarios in RESTful APIs","10.1002/stvr.1808",2022
+"Automatic generation of smoke test suites for kubernetes","10.1145/3533767.3543298",2022
+"Facilitating the hybridization of parallel evolutionary algorithms in cluster computing environments","10.1145/3520304.3533997",2022
+"RESTful API Testing Methodologies: Rationale, Challenges, and Solution Directions","10.3390/app12094369",2022
+"Automatic analysis of attack graphs for risk mitigation and prioritization on large-scale and complex networks in Industry 4.0","10.1007/s10207-020-00533-4",2022
+"Creating Microservices and using infrastructure as code within the CI/CD for dynamic container creation","10.1109/Informatics57926.2022.10083442",2022
+"MiSim: A Simulator for Resilience Assessment of Microservice-Based Architectures","10.1109/QRS57517.2022.00105",2022
+"Telemetry-Based Software Failure Prediction by Concept-Space Model Creation","10.1109/QRS57517.2022.00030",2022
+"Testing for Event-Driven Microservices Based on Consumer-Driven Contracts and State Models","10.1109/APSEC57359.2022.00064",2022
+"An Empirical Analysis of Microservices Systems Using Consumer-Driven Contract Testing","10.1109/SEAA56994.2022.00022",2022
+"A Study on the Aging and Fault Tolerance of Microservices in Kubernetes","10.1109/ACCESS.2022.3231191",2022
+"Implementing Test Driven Development in the Big Data Domain: A Movie Recommendation System as an Exemplary Case","10.5220/0011085600003194",2022
+"PUTraceAD: Trace Anomaly Detection with Partial Labels based on GNN and PU Learning","10.1109/ISSRE55969.2022.00032",2022
+"Moving Toward the Obsolescence of Obsolescence: A Walk in the Clouds","10.1109/AUTOTESTCON47462.2022.9984719",2022
+"Building Secure Environments for Microservices","10.1109/SRMC57347.2022.00008",2022
+"LICOR: Beyond the Design System. A Proposal to Empower Teams to Develop Software in Compliance with the Principles of Accessibility, Usability, and Privacy by Design in the Extreme Contexts and Challenging Domains Post-COVID-19","10.1007/978-3-031-19679-9_18",2022
+"Design and implementation of online judgment system based on microservice architecture and Docker","10.1109/AEMCSE55572.2022.00150",2022
+"Proceedings of 2022 IEEE 13th International Conference on Software Engineering and Service Science, ICSESS 2022","",2022
+"Microvision: Static analysis-based approach to visualizing microservices in augmented reality","10.1109/SOSE55356.2022.00012",2022
+"Formal translation of YAWL workflow models to the Alloy formal specifications: a testing application","10.1007/s10270-022-01043-8",2022
+"Leveraging composability in model-based testing for microservices","",2022
+"Overview of Information System Testing Technology Under the “CLOUD + MIcroservices�? Mode","10.1007/978-3-031-17422-3_6",2022
+"2nd International Conference on Computer and Communication Engineering, CCCE 2022","",2022
+"Assessing Black-box Test Case Generation Techniques for Microservices","10.1007/978-3-031-14179-9_4",2022
+"15th International Conference on the Quality of Information and Communications Technology, QUATIC 2022","",2022
+"Design, implementation, and testing of a microservices-based Digital Twins framework for network management and control","10.1109/WoWMoM54355.2022.00092",2022
+"Efficient software test management system based on microservice architecture","10.1109/ITAIC54216.2022.9836605",2022
+"Challenges in Regression Test Selection for End-to-End Testing of Microservice-based Software Systems","10.1145/3524481.3527217",2022
+"Microservices Integrated Performance and Reliability Testing","10.1145/3524481.3527233",2022
+"Proceedings - 3rd ACM/IEEE International Conference on Automation of Software Test, AST 2022","",2022
+"Record and Replay of Online Traffic for Microservices with Automatic Mocking Point Identification","10.1109/ICSE-SEIP55303.2022.9793867",2022
+"2022 IEEE 19th International Conference on Software Architecture Companion, ICSA-C 2022","",2022
+"33rd IFIP WG 6.1 International Conference on Testing Software Systems, ICTSS 2021","",2022
+"Solving the Instance Identification Problem in Micro-service Testing","10.1007/978-3-031-04673-5_15",2022
+"Usability of Computer-Aided Translation Software Based on Deep Learning Algorithms","10.1155/2022/9047053",2022
+"Intelligent Systems Conference, IntelliSys 2021","",2022
+"Intelligent Systems Conference, IntelliSys 2021","",2022
+"Development Support for Intelligent Systems: Test, Evaluation, and Analysis of Microservices","10.1007/978-3-030-82193-7_58",2022
+"Intelligent Systems Conference, IntelliSys 2021","",2022
+"Automated System and Domain-Specific Language for Medical Data Collection and Processing","10.1007/978-3-030-82014-5_25",2022
+"Dynamic and Resource-Aware Scheduling Scheme for Docker Cluster","10.1007/978-3-030-81007-8_110",2022
+"Service-level fault injection testing","10.1145/3472883.3487005",2021
+"3MileBeach: A tracer with teeth","10.1145/3472883.3486986",2021
+"Microservice Test Suite Minimization Technology Based on Logs Mining [基于日志挖掘的微�?务测试集缩�?技术]","10.13328/j.cnki.jos.006075",2021
+"Industry practices and challenges for the evolvability assurance of microservices: An interview study and systematic grey literature review","10.1007/s10664-021-09999-9",2021
+"Observability and chaos engineering on system calls for containerized applications in Docker","10.1016/j.future.2021.04.001",2021
+"Intellectual mathematical support software and inner architecture of lms mai class.net [В�?УТРЕ�?�?ЯЯ �?РХИТЕКТУР�? СДО М�?И CLASS.NET И ЕЕ КОМПЛЕКС М�?ТЕМ�?ТИЧЕСКОЙ ПОДДЕРЖКИ]","10.14529/mmp210304",2021
+"Faster, deeper, easier: Crowdsourcing diagnosis of microservice kernel failure from user space","10.1145/3460319.3464805",2021
+"HeTong: A Voice Answering Enabled Multi-language Questionnaire System Based on Spring Cloud","10.1109/ICAICA52286.2021.9498116",2021
+"Acceptance Tests over Microservices Architecture using Behaviour-Driven Development [Testes de Aceitação com Behaviour-Driven Development em uma Arquitetura de Microsserviços]","10.23919/CISTI52073.2021.9476643",2021
+"A Discrete Dynamic Artificial Bee Colony with Hyper-Scout for RESTful web service API test suite generation","10.1016/j.asoc.2021.107246",2021
+"Quality Assurance of Micro-Services - When to trust your micro-service test results?","10.1109/QRS-C55045.2021.00024",2021
+"Proceedings - 2021 21st International Conference on Software Quality, Reliability and Security Companion, QRS-C 2021","",2021
+"Proceedings - 2021 IEEE International Symposium on Software Reliability Engineering Workshops, ISSREW 2021","",2021
+"My Services Got Old! Can Kubernetes Handle the Aging of Microservices?","10.1109/ISSREW53611.2021.00042",2021
+"Cipc: A change impact propagation computing based technique for microservice regression testing prioritization","10.1155/2021/2912240",2021
+"SimulateIoT: Domain Specific Language to Design, Code Generation and Execute IoT Simulation Environments","10.1109/ACCESS.2021.3092528",2021
+"International Workshop on Structured Object-Oriented Formal Language and Method, SOFL+MSVL 2020","",2021
+"Testing microservices architecture-based applications: A systematic mapping study","10.1109/APSEC51365.2020.00020",2020
+"A simple, lightweight framework for testing RESTful services with TTCN-3","10.1109/QRS-C51114.2020.00089",2020
+"Automatic ex-vivo regression testing of microservices","10.1145/3387903.3389309",2020
+"Proceedings - 2020 IEEE/ACM 1st International Conference on Automation of Software Test, AST 2020","",2020
+"Proceedings - 2020 25th International Conference on Engineering of Complex Computer Systems, ICECCS 2020","",2020
+"Research on Microservice Application Testing System","10.1109/ICISCAE51034.2020.9236829",2020
+"Checkers: Multi-modal Darwinian API Optimisation","10.1145/3387940.3392173",2020
+"TDD4Fog: A Test-Driven Software Development Platform for Fog Computing Systems","10.1109/CCGrid49817.2020.00-25",2020
+"A framework for satisfying the performance requirements of containerized software systems through multi-versioning","10.1145/3358960.3379125",2020
+"Microservices: A performance tester's dream or nightmare?","10.1145/3358960.3379124",2020
+"An Automatic Test Data Generation Method for Microservice Application","10.1109/ICCEA50009.2020.00048",2020
+"Testing microservice architectures for operational reliability","10.1002/stvr.1725",2020
+"QuASoQ 2020 - Proceedings of the 8th International Workshop on Quantitative Approaches to Software Quality, co-located with 27th Asia-Pacific Software Engineering Conference, APSEC2020","",2020
+"21st International Conference on Agile Software Development,XP 2020","",2020
+"Verification of Microservices Using Metamorphic Testing","10.1007/978-3-030-38991-8_10",2020
+"Serverless computing and cloud function-based applications","10.1145/3368235.3370269",2019
+"Design and Research of Microservice Application Automation Testing Framework","10.1109/ITCA49981.2019.00063",2019
+"Graph-based and scenario-driven microservice analysis, retrieval, and testing","10.1016/j.future.2019.05.048",2019
+"Automatic performance monitoring and regression testing during the transition from monolith to microservices","10.1109/ISSREW.2019.00067",2019
+"Design of Distributed Task Scheduling in East China Power Market Trading System","10.1109/CIEEC47146.2019.CIEEC-201991",2019
+"JCOMIX: A search-based tool to detect XML injection vulnerabilities in web applications","10.1145/3338906.3341178",2019
+"Comparison of runtime testing tools for microservices","10.1109/COMPSAC.2019.10232",2019
+"Failure-aware application placement modeling and optimization in high turnover devops environment","10.1109/CLOUD.2019.00030",2019
+"ATARI: Autonomous testing and real-time intelligence - A framework for autonomously testing modern applications","10.1109/AITest.2019.000-8",2019
+"Microservice Architectures for Advanced Driver Assistance Systems: A Case-Study","10.1109/ICSA-C.2019.00016",2019
+"Test Automation Framework as a Service (TAFaaS) - scale test automation & devops practices with cloud, containers, and microservice.","",2019
+"Container Orchestration Engines: A Thorough Functional and Performance Comparison","10.1109/ICC.2019.8762053",2019
+"DevOps architecture in the cloud [Bulut üzerinde DevOps mimarisi]","10.1109/SIU.2019.8806433",2019
+"Applying change impact analysis test to migration test case extraction based on IDAU and graph analysis techniques","10.1109/ICSTW.2019.00041",2019
+"Development Activities, Tools and Techniques of Secure Microservices Compositions","10.1007/978-3-030-34339-2_24",2019
+"Scenario-Based Microservice Retrieval Using Word2Vec","10.1109/ICEBE.2018.00046",2018
+"ORCAS: Efficient Resilience Benchmarking of Microservice Architectures","10.1109/ISSREW.2018.00-10",2018
+"Run-Time Reliability Estimation of Microservice Architectures","10.1109/ISSRE.2018.00014",2018
+"An extensible fault tolerance testing framework for microservice-based cloud applications","10.1145/3290420.3290476",2018
+"Towards executable specifications for microservices","10.1109/SCC.2018.00013",2018
+"Design Quality Measurement for Service Oriented Software on Service Computing System: A Systematic Literature Review","10.1109/ICITSI.2018.8696092",2018
+"Automation of regression test in microservice architecture","10.1109/ICWR.2018.8387249",2018
+"Synthetic Runtime Monitoring of Microservices Software Architecture","10.1109/COMPSAC.2018.10274",2018
+"EvoMaster: Evolutionary Multi-context Automated System Test Generation","10.1109/ICST.2018.00046",2018
+"Proceedings - 12th IEEE International Symposium on Service-Oriented System Engineering, SOSE 2018 and 9th International Workshop on Joint Cloud Computing, JCC 2018","",2018
+"Mutation testing for microservices","",2018
+"Effective practices for refactoring a legacy Java application into a microservice architecture","",2018
+"Anomaly detection and diagnosis for container-based microservices with performance monitoring","10.1007/978-3-030-05063-4_42",2018
+"Introducing an event-based architecture for concurrent and distributed evolutionary algorithms","10.1007/978-3-319-99253-2_32",2018
+"CEUR Workshop Proceedings","",2018
+"ACM International Conference Proceeding Series","",2017
+"RESTful API automated test case generation","10.1109/QRS.2017.11",2017
+"Proceedings - 2017 IEEE International Conference on Software Quality, Reliability and Security Companion, QRS-C 2017","",2017
+"PCCTE: A portable component conformance test environment based on container cloud for avionics software development","10.1109/PIC.2016.7949582",2017
+"An Architecture to Automate Performance Tests on Microservices","10.1145/3011141.3011179",2016
+"PostgreSQL service with backup and recovery for cloud foundry","10.1109/FRUCT.2016.7584766",2016
+"CIDE: An integrated development environment for microservices","10.1109/SCC.2016.112",2016
+"Gremlin: Systematic Resilience Testing of Microservices","10.1109/ICDCS.2016.11",2016
+"Automated Fault-Tolerance Testing","10.1109/ICSTW.2016.34",2016
+"Efficiency analysis of provisioning microservices","10.1109/CloudCom.2016.0051",2016
+"Microservices: Theory and Application","10.1145/2959689.2960082",2016
+"SPEC research group's cloud working group: [RG cloud group]","10.1145/2851553.2858675",2016
+"A service framework for parallel test execution on a developer's local development workstation","10.1109/SOSE.2015.45",2015
+"13th International Conference on Software Engineering and Formal Methods, SEFM 2015 Collocated with ATSE, HOFM, MoKMaSD, and VERY SCART","",2015
+"Learning-based testing of distributed microservice architectures: Correctness and fault injection","10.1007/978-3-662-49224-6_1",2015
+"Proceedings - International Symposium on Software Reliability Engineering, ISSRE","",2003

@@ -1,0 +1,49 @@
+Title,DOI,Year
+"Anomaly Detection and Failure Root Cause Analysis in (Micro) Service-Based Cloud Applications: A Survey","10.1145/3501297",2022
+"Latent Error Prediction and Fault Localization for Microservice Applications by Learning from System Trace Logs","10.1145/3338906.3338961",2019
+"A Fault Injection Platform for Learning AIOps Models","10.1145/3551349.3559503",2023
+"CloudRanger: Root Cause Identification for Cloud Native Systems","10.1109/CCGRID.2018.00076",2018
+"MicroSketch: Lightweight And&nbsp;Adaptive Sketch Based Performance Issue Detection And&nbsp;Localization In&nbsp;Microservice Systems","10.1007/978-3-031-20984-0_15",2022
+"Localization of Operational Faults in Cloud Applications by Mining Causal Dependencies in Logs Using Golden Signals","10.1007/978-3-030-76352-7_17",2020
+"Graph-Based Trace Analysis for Microservice Architecture Understanding and Problem Diagnosis","10.1145/3368089.3417066",2020
+"Requirements For&nbsp;Anomaly Detection Techniques For&nbsp;Microservices","10.1007/978-3-031-21388-5_3",2022
+"Large-Scale Trace Analysis for Microservice Anomaly Detection and Root Cause Localization","10.1145/3531056.3542765",2022
+"TrinityRCL: Multi-Granular and Code-Level Root Cause Localization Using Multiple Types of Telemetry Data in Microservice Systems","10.1109/TSE.2023.3241299",2023
+"Look Deep into the Microservice System Anomaly through Very Sparse Logs","10.1145/3543507.3583338",2023
+"Fault Analysis and Debugging of Microservice Systems: Industrial Survey, Benchmark System, and Empirical Study","10.1109/TSE.2018.2887384",2021
+"Inferring Calling Relationship Based on External Observation for Microservice Architecture","10.1007/978-3-319-69035-3_16",2017
+"Graph-Based Root Cause Analysis for Service-Oriented and Microservice Architectures","10.1016/j.jss.2019.110432",2020
+"An Analysis of Call-Site Patching without Strong Hardware Support for Self-Modifying-Code","10.1145/3357390.3361027",2019
+"Swift Birth and Quick Death: Enabling Fast Parallel Guest Boot and Destruction in the Xen Hypervisor","10.1145/3050748.3050758",2017
+"Graph Based Liability Analysis for the Microservice Architecture","",2023
+"Anomaly Detection in Microservice Environments Using Distributed Tracing Data Analysis and NLP","10.1186/s13677-022-00296-4",2022
+"IoMiRCA: Root Cause Analysis in IoT-Extended 5G Microservice Environments","10.1145/3555776.3577840",2023
+"LongTale: Toward Automatic Performance Anomaly Explanation in Microservices","10.1145/3489525.3511675",2022
+"MMRCA: MultiModal Root Cause Analysis","10.1007/978-3-031-14135-5_14",2021
+"Sage: Practical and Scalable ML-Driven Performance Debugging in Microservices","10.1145/3445814.3446700",2021
+"Microservices-Based Systems Visualization: Student Research Abstract","10.1145/3477314.3506963",2022
+"Benchmarking Microservice Systems for Software Engineering Research","10.1145/3183440.3194991",2018
+"FIRM: An Intelligent Fine-Grained Resource Management Framework for SLO-Oriented Microservices","",2020
+"Designing and Managing Large-Scale Interactive Microservices in Datacenters","",2021
+"Enabling Containerized, Parametric and Distributed Database Deployment and Benchmarking as a Service","10.1145/3447545.3451188",2021
+"A Comparative Analysis of Emerging Approaches for Securing Java Software with Intel SGX","10.1016/j.future.2019.03.018",2019
+"Enhancing Packet Tracing of Microservices in Container Overlay Networks Using EBPF","10.1145/3570748.3570756",2022
+"DeepTraLog: Trace-Log Combined Microservice Anomaly Detection through Graph-Based Deep Learning","10.1145/3510003.3510180",2022
+"MiSeRTrace: Kernel-Level Request Tracing for Microservice Visibility","10.1145/3491204.3527462",2022
+"BSDG: Anomaly Detection Of&nbsp;Microservice Trace Based On&nbsp;Dual Graph Convolutional Neural Network","10.1007/978-3-031-20984-0_12",2022
+"Trace Analysis Based Microservice Architecture Measurement","10.1145/3540250.3558951",2022
+"AID: Efficient Prediction of Aggregated Intensity of Dependency in Large-Scale Cloud Systems","10.1109/ASE51524.2021.9678534",2022
+"Improving Business Processes Using Blockchain, Microservices, or Cloud Computing: A Goal-Oriented Approach","",2021
+"Erms: Efficient Resource Management for Shared Microservices with SLA Guarantees","10.1145/3567955.3567964",2022
+"GRAF: A Graph Neural Network Based Proactive Resource Allocation Framework for SLO-Oriented Microservices","10.1145/3485983.3494866",2021
+"Cushion: A Proactive Resource Provisioning Method to Mitigate SLO Violations for Containerized Microservices","10.1049/cmu2.12464",2022
+"Automated Test-Based Learning and Verification of Performance Models for Microservices Systems","10.1016/j.jss.2022.111225",2022
+"Performance Diagnosis in Cloud Microservices Using Deep Learning","10.1007/978-3-030-76352-7_13",2020
+"MicroRCA: Root Cause Localization of Performance Issues in Microservices","10.1109/NOMS47738.2020.9110353",2020
+"MicroEGRCL: An Edge-Attention-Based Graph Neural Network Approach For&nbsp;Root Cause Localization In&nbsp;Microservice Systems,Chen","10.1007/978-3-031-20984-0_18",2022
+"Model-Driven Generation of Microservice Architectures for Benchmarking Performance and Resilience Engineering Approaches","10.1145/3053600.3053627",2017
+"Benchmark Requirements for Microservices Architecture Research","",2017
+"Automatic Performance Diagnosis and Recovery in Cloud Microservices / Automatische Leistungsdiagnose Und Wiederherstellung in  Cloud-Microservices","",2022
+"Secure Distributed Applications the Decent Way","10.1145/3457340.3458304",2021
+"Asynchronous Snapshots of Actor Systems for Latency-Sensitive Applications","10.1145/3357390.3361019",2019
+"Proactive-Reactive Global Scaling, With&nbsp;Analytics","10.1007/978-3-031-20984-0_16",2022

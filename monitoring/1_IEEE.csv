@@ -1,0 +1,52 @@
+Title,DOI,Year
+"Graph Based Liability Analysis for the Microservice Architecture","10.23919/CNSM55787.2022.9964681",2022
+"DeepTraLog: Trace-Log Combined Microservice Anomaly Detection through Graph-based Deep Learning","10.1145/3510003.3510180",2022
+"Using Microservice Telemetry Data for System Dynamic Analysis","10.1109/SOSE55356.2022.00010",2022
+"Poster: Benchmarking Microservice Systems for Software Engineering Research","",2018
+"TADL: Fault Localization with Transformer-based Anomaly Detection for Dynamic Microservice Systems","10.1109/SANER56733.2023.00078",2023
+"ORCAS: Efficient Resilience Benchmarking of Microservice Architectures","10.1109/ISSREW.2018.00-10",2018
+"Localizing and Explaining Faults in Microservices Using Distributed Tracing","10.1109/CLOUD55607.2022.00072",2022
+"TrinityRCL: Multi-Granular and Code-Level Root Cause Localization Using Multiple Types of Telemetry Data in Microservice Systems","10.1109/TSE.2023.3241299",2023
+"Fault Analysis and Debugging of Microservice Systems: Industrial Survey, Benchmark System, and Empirical Study","10.1109/TSE.2018.2887384",2021
+"Trace-based Intelligent Fault Diagnosis for Microservices with Deep Learning","10.1109/COMPSAC51774.2021.00121",2021
+"VECROsim: A Versatile Metric-oriented Microservice Fault Simulation System (Tools and Artifact Track)","10.1109/ISSRE55969.2022.00037",2022
+"An Anomaly Detection Algorithm for Microservice Architecture Based on Robust Principal Component Analysis","10.1109/ACCESS.2020.3044610",2020
+"Practical Root Cause Localization for Microservice Systems via Trace Analysis","10.1109/IWQOS52092.2021.9521340",2021
+"ServiceRank: Root Cause Identification of Anomaly in Large-Scale Microservice Architectures","10.1109/TDSC.2021.3083671",2022
+"μBench: An Open-Source Factory of Benchmark Microservice Applications","10.1109/TPDS.2023.3236447",2023
+"A Framework of Virtual War Room and Matrix Sketch-Based Streaming Anomaly Detection for Microservice Systems","10.1109/ACCESS.2020.2977464",2020
+"T-Rank:A Lightweight Spectrum based Fault Localization Approach for Microservice Systems","10.1109/CCGrid51090.2021.00051",2021
+"MicroRCA: Root Cause Localization of Performance Issues in Microservices","10.1109/NOMS47738.2020.9110353",2020
+"Robust Anomaly Diagnosis in Heterogeneous Microservices Systems under Variable Invocations","10.1109/GLOBECOM48099.2022.10001270",2022
+"MFRL-CA: Microservice Fault Root Cause Location based on Correlation Analysis","10.1109/DSA52907.2021.00018",2021
+"Multi-Layer Observability for Fault Localization in Microservices Based Systems","10.1109/SANER56733.2023.00081",2023
+"Fault Localization for Microservice Applications with System Logs and Monitoring Metrics","10.1109/ICCCBDA55098.2022.9778893",2022
+"MicroMILTS: Fault Location for Microservices Based Mutual Information and LSTM Autoencoder","10.23919/APNOMS56106.2022.9919941",2022
+"Root-Cause Metric Location for Microservice Systems via Log Anomaly Detection","10.1109/ICWS49710.2020.00026",2020
+"A Saga Pattern Microservice Reference Architecture for an Elastic SLO Violation Analysis","10.1109/ICSA-C54293.2022.00029",2022
+"A layered framework for root cause diagnosis of microservices","10.1109/NCA53618.2021.9685494",2021
+"Cloud Native Applications Profiling using a Graph Neural Networks Approach","10.1109/FNWF55208.2022.00046",2022
+"Fitness-guided Resilience Testing of Microservice-based Applications","10.1109/ICWS49710.2020.00027",2020
+"A Data-Centric Approach to Distributed Tracing","10.1109/CloudCom.2019.00039",2019
+"MicroLens: A Performance Analysis Framework for Microservices Using Hidden Metrics With BPF","10.1109/CLOUD55607.2022.00043",2022
+"Diagnosing Performance Issues in Microservices with Heterogeneous Data Source","10.1109/ISPA-BDCloud-SocialCom-SustainCom52081.2021.00074",2021
+"TS-InvarNet: Anomaly Detection and Localization based on Tempo-spatial KPI Invariants in Distributed Services","10.1109/ICWS55610.2022.00031",2022
+"DyCause: Crowdsourcing to Diagnose Microservice Kernel Failure","10.1109/TDSC.2022.3233915",2023
+"Large-Scale Intelligent Microservices","10.1109/BigData50022.2020.9378270",2020
+"A Roadmap for Migration System-Architecture Decision by Neutrosophic-ANP and Benchmark for Enterprise Resource Planning Systems","10.1109/ACCESS.2021.3068837",2021
+"Automated performance prediction of microservice applications using simulation","10.1109/MASCOTS53633.2021.9614260",2021
+"Chamulteon: Coordinated Auto-Scaling of Micro-Services","10.1109/ICDCS.2019.00199",2019
+"Automated Grey-Box Testing of Microservice Architectures","10.1109/QRS57517.2022.00070",2022
+"MicroDiag: Fine-grained Performance Diagnosis for Microservice Systems","10.1109/CloudIntelligence52565.2021.00015",2021
+"Telemetry-Based Software Failure Prediction by Concept-Space Model Creation","10.1109/QRS57517.2022.00030",2022
+"Self-Adaptive Root Cause Diagnosis for Large-Scale Microservice Architecture","10.1109/TSC.2020.2993251",2022
+"CloudRanger: Root Cause Identification for Cloud Native Systems","10.1109/CCGRID.2018.00076",2018
+"In-Network Processing Acoustic Data for Anomaly Detection in Smart Factory","10.1109/GLOBECOM46510.2021.9685791",2021
+"MicroRAS: Automatic Recovery in the Absence of Historical Failure Data for Microservice Systems","10.1109/UCC48980.2020.00041",2020
+"Response Time Characterization of Microservice-Based Systems","10.1109/NCA.2018.8548062",2018
+"Enhancing Fault Injection Testing of Service Systems via Fault-Tolerance Bottleneck","10.1109/TSE.2023.3285357",2023
+"AID: Efficient Prediction of Aggregated Intensity of Dependency in Large-scale Cloud Systems","10.1109/ASE51524.2021.9678534",2021
+"MS-Rank: Multi-Metric and Self-Adaptive Root Cause Diagnosis for Microservice Applications","10.1109/ICWS.2019.00022",2019
+"Efficient Management in Fog Computing","10.1109/NOMS56928.2023.10154219",2023
+"Advancing Static Code Analysis With Language-Agnostic Component Identification","10.1109/ACCESS.2022.3160485",2022
+"Scalable Collaborative Software Visualization as a Service: Short Industry and Experience Paper","10.1109/IC2E55432.2022.00026",2022

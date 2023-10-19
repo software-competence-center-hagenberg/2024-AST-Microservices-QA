@@ -247,3 +247,94 @@ AND
 ("micro services") OR 
 ("micro-services") OR 
 ("micro-service"))
+
+
+
+## Results Testing search
+
+### Apply Search (Step 1)
+
+| Source   | #Studies | File                                             |
+|----------|----------|--------------------------------------------------|
+| ACM      | 15       | [testing/1_ACM.csv](testing/1_ACM.csv)           |
+| IEEE     | 29       | [testing/1_IEEE.csv](testing/1_IEEE.csv)         |
+| SCOPUS   | 129      | [testing/1_SCOPUS.csv](testing/1_SCOPUS.csv)     |
+| SPRINGER | 176      | [testing/1_SPRINGER.csv](testing/1_SPRINGER.csv) |
+| **SUM**  | **349**  | -                                                |
+
+
+### Deduplicate & Filter Results (Step 2)
+
+| Step          | #Studies | File                                                                     |
+|---------------|----------|--------------------------------------------------------------------------|
+| Deduplication | 308      | [testing/2.1_mergedDeduplicated.csv](testing/2.1_mergedDeduplicated.csv) |
+| Filter        | 53       | [testing/2.2_filteredSearch.csv](testing/2.2_filteredSearch.csv)         |
+
+
+### Backward & Forward Snowballing (Step 3)
+
+Added 2992 studies.
+
+### Deduplicate & Filter Results (Step 4)
+
+| Step          | #Studies | File                                                                               |
+|---------------|----------|------------------------------------------------------------------------------------|
+| Deduplication | 2163     | [testing/4.1_snowballingDeduplicated.csv](testing/4.1_snowballingDeduplicated.csv) |
+| Filter        | 101      | [testing/4.1_snowballingDeduplicated.csv](testing/4.2_finalList.csv)               |
+
+### Extract Systems (Step 5)
+
+| Step      | #Systems | File                                           |
+|-----------|----------|------------------------------------------------|
+| Extract   | 112      | [testing/5_systems.csv](testing/5_systems.csv) |
+
+
+
+## Results Monitoring search
+
+### Apply Search (Step 1)
+
+| Source   | #Studies | File                                                   |
+|----------|----------|--------------------------------------------------------|
+| ACM      | 48       | [monitoring/1_ACM.csv](monitoring/1_ACM.csv)           |
+| IEEE     | 51       | [monitoring/1_IEEE.csv](monitoring/1_IEEE.csv)         |
+| SCOPUS   | 87       | [monitoring/1_SCOPUS.csv](monitoring/1_SCOPUS.csv)     |
+| SPRINGER | 321      | [monitoring/1_SPRINGER.csv](monitoring/1_SPRINGER.csv) |
+| **SUM**  | **507**  | -                                                      |
+
+
+### Deduplicate & Filter Results (Step 2)
+
+| Step          | #Studies | File                                                                           |
+|---------------|----------|--------------------------------------------------------------------------------|
+| Deduplication | 427      | [monitoring/2.1_mergedDeduplicated.csv](monitoring/2.1_mergedDeduplicated.csv) |
+| Filter        | 41       | [monitoring/2.2_filteredSearch.csv](monitoring/2.2_filteredSearch.csv)         |
+
+
+### Backward & Forward Snowballing (Step 3)
+
+Added 2373 studies.
+
+### Deduplicate & Filter Results (Step 4)
+
+| Step          | #Studies | File                                                                                     |
+|---------------|----------|------------------------------------------------------------------------------------------|
+| Deduplication | 1913     | [monitoring/4.1_snowballingDeduplicated.csv](monitoring/4.1_snowballingDeduplicated.csv) |
+| Filter        | 70       | [monitoring/4.2_finalList.csv](monitoring/4.2_finalList.csv)                             |
+
+### Extract Systems (Step 5)
+
+| Step      | #Systems | File                                                 |
+|-----------|----------|------------------------------------------------------|
+| Extract   | 28       | [monitoring/5_systems.csv](monitoring/5_systems.csv) |
+
+ 
+## Merge & Filter Systems (Step 6)
+
+| Step                | #Systems | File                                                         |
+|---------------------|----------|--------------------------------------------------------------|
+| Merge               | 134      | [6.1_systems.csv](6.1_systems.csv)                           |
+| Filter availability | 32       | [6.2_available_systems.csv](6.2_available_systems.csv)       |
+| Filter open-source  | 29       | [6.3_open_source_systems.csv](6.3_open_source_systems.csv)   |
+| Filter microservice | 19       | [6.4_microservice_systems.csv](6.4_microservice_systems.csv) |
+

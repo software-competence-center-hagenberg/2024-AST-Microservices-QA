@@ -1,0 +1,135 @@
+System,Testing Studie Ids,Tracing Studie Ids,#Studies Testing,#Studies Tracing,#Studies,Available,OSS,Micro-service
+"17 APIs","T450","",1,0,1,0,0,0
+"2157 APIs from apiguru","T1519","",1,0,1,0,0,0
+"6 real world apis","T384","",1,0,1,0,0,0
+"8 partly self constructed applications. Cinema","T80","",1,0,1,0,0,0
+"87 APIs from apiguru","T14","",1,0,1,0,0,0
+"91 APIs from apiguru","T598","",1,0,1,0,0,0
+"Alibaba �s not available","","M29",0,1,1,0,0,0
+"Amadeus Hotel","T386, T299","",2,0,2,0,0,0
+"apiguru","T57, T432","",2,0,2,0,0,0
+"Audible","T80","",1,0,1,0,0,0
+"AWS","T285","",1,0,1,0,0,0
+"AWS demo","T84","",1,0,1,1,1,1
+"Azure","T285, T680, T686, T689, T792","",5,0,5,0,0,0
+"Bench4Q refactored to �S not available","","M53",0,1,1,0,0,0
+"BingMaps","T367, T354","",2,0,2,0,0,0
+"Bitbucket","T342","",1,0,1,0,0,0
+"Book Info","T77","M46",1,1,2,1,1,1
+"Calculator","T57","",1,0,1,0,0,0
+"Calculator","T1670","",1,0,1,0,0,0
+"ChaosEcho","","M178",0,1,1,1,1,0
+"Clearwater","","M381, M851, M1389, M1854",0,4,4,0,0,0
+"Closed source shop system","T750","",1,0,1,0,0,0
+"CloudStore","","M1320",0,1,1,1,1,0
+"commercial system","T691","",1,0,1,0,0,0
+"concurrency jobs","T582","",1,0,1,0,0,0
+"Corona Warn App","T4","",1,0,1,1,1,1
+"customers and orders","T83","",1,0,1,1,1,1
+"DeathStarBench","","M109, M541, M591, M640, M7, M53",0,6,6,1,1,1
+"Deutschebahn StaDa","T299","",1,0,1,0,0,0
+"DHL","T386","",1,0,1,0,0,0
+"DHL Location Finder","T299","",1,0,1,0,0,0
+"DIS","T56","",1,0,1,0,0,0
+"Discourse","T39","",1,0,1,0,0,0
+"disease-sh-api","T366","",1,0,1,0,0,0
+"dukes-forest","T582","",1,0,1,0,0,0
+"Elgg","","M1559",0,1,1,1,1,0
+"EMB","T493, T84, T599, T729, T36, T423, T1685, T342, T366, T26, T28, T412, T398, T396, T451, T480","",16,0,16,1,1,0
+"ERC-20 RESTful service","T396","",1,0,1,1,1,0
+"E-Shopper","","M464, M1676",0,2,2,1,0,0
+"Expedia","T80","",1,0,1,0,0,0
+"FDIC","T386","",1,0,1,0,0,0
+"Foursquare","T220, T386","",2,0,2,0,0,0
+"FTGO","T45","",1,0,1,1,1,1
+"Full Teaching","T12, T30","",2,0,2,1,1,0
+"Genome Nexus","T396","",1,0,1,0,0,0
+"Github","T486, T1318, T220","",3,0,3,0,0,0
+"GitLab","T354, T792, T1457, T651","",4,0,4,0,0,0
+"Hipstershop","T353","M93, M485, M620, M679, M1173",1,5,6,1,1,1
+"IBM Cloud Proprietary","","M6, M5, M21, M84, M707, M760",0,6,6,0,0,0
+"IMDb","T1332","",1,0,1,0,0,0
+"industrial","T480","",1,0,1,0,0,0
+"Industrial system","T46, T368","",2,0,2,0,0,0
+"Industry","T651","",1,0,1,0,0,0
+"Industry Systems: Edutelling","T58","",1,0,1,0,0,0
+"Internal APIs of Huawei","T375","",1,0,1,0,0,0
+"iTunes","T1332","",1,0,1,0,0,0
+"Jenkins","T1505","",1,0,1,1,1,0
+"JOA","T56, T72, T120","",3,0,3,0,0,0
+"KAS","T72, T120","",2,0,2,0,0,0
+"Kickstarter","T1332","",1,0,1,0,0,0
+"LanguageTool","T342, T425, T486, T386, T396","",5,0,5,0,0,0
+"Mailchimp","T80","",1,0,1,0,0,0
+"Market","T396","",1,0,1,0,0,0
+"Marvel","T299, T386","",2,0,2,0,0,0
+"Meituan Proprietary","","M1",0,1,1,0,0,0
+"m-Ticket","T56, T72, T120","",3,0,3,0,0,0
+"MyICPC","T164","",1,0,1,0,0,0
+"Need","T72, T120","",2,0,2,0,0,0
+"Netflix","T80","",1,0,1,0,0,0
+"nginx + wrk2","","M7",0,1,1,0,0,0
+"NLP","T84","",1,0,1,0,0,0
+"Office365","T686, T792","",2,0,2,0,0,0
+"Ohsome","T425, T386","",2,0,2,0,0,0
+"OMDb","T299","",1,0,1,0,0,0
+"Online horoscope service","T188","",1,0,1,0,0,0
+"online voting system","T175","",1,0,1,0,0,0
+"OnlineBoutique","","M52, M582",0,2,2,1,1,1
+"OpenMRS","","M1320",0,1,1,1,1,0
+"Personal Data Valuation and Pricing System (Publication can not be found)","T3","",1,0,1,0,0,0
+"Personal Investment Management System (PIMS) modified","T175","",1,0,1,0,0,0
+"Pet Clinic Microservices System","T21","",1,0,1,0,0,0
+"Petclinic","T450","",1,0,1,0,0,0
+"Petstore","T434, T1369, T342","",3,0,3,1,1,0
+"Piggy Metrics","T37, T43","M785",2,1,3,1,1,1
+"Prestashop","T1332","",1,0,1,1,1,0
+"proprietary - not available","","M56",0,1,1,0,0,0
+"proprietary system of IBM","T110","",1,0,1,0,0,0
+"PyMicro","","M5, M21, M84, M760",0,4,4,1,1,1
+"rapidapi","T299","",1,0,1,0,0,0
+"real world - not available","","M582, M46",0,2,2,0,0,0
+"RealWorld","T432","",1,0,1,0,0,0
+"Real-world system in finance domain","T372","",1,0,1,0,0,0
+"realworld-api","T366","",1,0,1,0,0,0
+"restaurant management","T83","",1,0,1,1,1,1
+"RESTCountries","T425, T299","",2,0,2,0,0,0
+"Rideshare","T19, T33","",2,0,2,1,1,1
+"RobotShop","","M97",0,1,1,1,1,1
+"Schr�dinger API","T317","",1,0,1,0,0,0
+"self made - not available","","M45, M63, M1188, M8, M640",0,5,5,0,0,0
+"Self made API","T1071, T1208, T1927","",3,0,3,0,0,0
+"Self made financial application","T38","",1,0,1,0,0,0
+"Self made online shopping system (3 services)","T1626","",1,0,1,0,0,0
+"Self made simulations","T96","",1,0,1,0,0,0
+"shipping workflow","T1670","",1,0,1,0,0,0
+"SkyScanner","T1332","",1,0,1,0,0,0
+"Small proof of concept REST microservice application","T20","",1,0,1,0,0,0
+"Sock Shop","T193, T256, T65, T45","M3, M8, M11, M15, M37, M49, M55, M66, M74, M102, M405, M450, M478, M560, M731, M1319, M52, M80, M1559, M785",4,20,24,1,1,1
+"SockPong","","M690",0,1,1,1,1,1
+"Spotify","T876, T1354","",2,0,2,0,0,0
+"Steam","T1332","",1,0,1,0,0,0
+"Stripe","T486, T220","",2,0,2,0,0,0
+"Student solution","T876","",1,0,1,0,0,0
+"StudentProject not available","","M29",0,1,1,0,0,0
+"System from industry partner (closed source)","T26, T28","",2,0,2,0,0,0
+"T2","","M19",0,1,1,1,1,1
+"Tea Store","T65, T74, T85, T4","M670, M1320, M1559",4,3,7,1,1,1
+"TPC-W","","M900",0,1,1,0,0,0
+"Train Ticket","T7, T402, T549, T1625, T30, T39, T43, T45","M10, M12, M14, M17, M29, M56, M57, M62, M80, M112, M487, M498, M584, M592, M626, M707, M46, M464, M670, M785",8,20,28,1,1,1
+"Transaction service","T83","",1,0,1,1,1,1
+"Transfermarkt","T1332","",1,0,1,0,0,0
+"triCalculate (system with 6 microservices)","T114","",1,0,1,0,0,0
+"Trust","T58","",1,0,1,0,0,0
+"Tumblr","T220","",1,0,1,0,0,0
+"Twitter","T1318","",1,0,1,0,0,0
+"Unknown","T16","",1,0,1,0,0,0
+"Various public and private APIs","T444","",1,0,1,0,0,0
+"various public APIs","T1282","",1,0,1,0,0,0
+"Various publically available apis","T638","",1,0,1,0,0,0
+"VMAMV-Cinema","T378","",1,0,1,1,1,1
+"Wordpress with Elasticsearch plugin","T110","",1,0,1,1,1,0
+"Yelp","T220, T486","",2,0,2,0,0,0
+"Youtube","T220, T486, T876","",3,0,3,0,0,0
+"YoutubeMock","T425","",1,0,1,0,0,0
+"z-Shop","T56, T72, T120","",3,0,3,0,0,0

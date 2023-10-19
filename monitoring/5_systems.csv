@@ -1,0 +1,29 @@
+System,Studie Ids,#Studies,Available,OSS,Micro-service
+"Alibaba Ês not available","M29",1,0,0,0
+"Bench4Q refactored to ÊS not available","M53",1,0,0,0
+"Book Info","M46",1,1,1,1
+"ChaosEcho","M178",1,1,1,0
+"Clearwater","M381, M851, M1389, M1854",4,0,0,0
+"CloudStore","M1320",1,1,1,0
+"DeathStarBench","M109, M541, M591, M640, M7, M53",6,1,1,1
+"Elgg","M1559",1,1,1,0
+"E-Shopper","M464, M1676",2,1,0,0
+"Hipstershop","M93, M485, M620, M679, M1173",5,1,1,1
+"IBM Cloud Proprietary","M6, M5, M21, M84, M707, M760",6,0,0,0
+"Meituan Proprietary","M1",1,0,0,0
+"nginx + wrk2","M7",1,0,0,0
+"OnlineBoutique","M52, M582",2,1,1,1
+"OpenMRS","M1320",1,1,1,0
+"Piggy Metrics","M785",1,1,1,1
+"proprietary - not available","M56",1,0,0,0
+"PyMicro","M5, M21, M84, M760",4,1,1,1
+"real world - not available","M582, M46",2,0,0,0
+"RobotShop","M97",1,1,1,1
+"self made - not available","M45, M63, M1188, M8, M640",5,0,0,0
+"Sock Shop","M3, M8, M11, M15, M37, M49, M55, M66, M74, M102, M405, M450, M478, M560, M731, M1319, M52, M80, M1559, M785",20,1,1,1
+"SockPong","M690",1,1,1,1
+"StudentProject not available","M29",1,0,0,0
+"T2","M19",1,1,1,1
+"Tea Store","M670, M1320, M1559",3,1,1,1
+"TPC-W","M900",1,0,0,0
+"Train Ticket","M10, M12, M14, M17, M29, M56, M57, M62, M80, M112, M487, M498, M584, M592, M626, M707, M46, M464, M670, M785",20,1,1,1

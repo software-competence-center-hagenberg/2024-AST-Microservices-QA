@@ -1,0 +1,30 @@
+Title,DOI,Year
+"EvoMaster: Evolutionary Multi-context Automated System Test Generation","10.1109/ICST.2018.00046",2018
+"Quality Assurance of Micro-Services - When to trust your micro-service test results?","10.1109/QRS-C55045.2021.00024",2021
+"Efficient software test management system based on microservice architecture","10.1109/ITAIC54216.2022.9836605",2022
+"Testing for Event-Driven Microservices Based on Consumer-Driven Contracts and State Models","10.1109/APSEC57359.2022.00064",2022
+"Challenges in Regression Test Selection for End-to-End Testing of Microservice-based Software Systems","10.1145/3524481.3527217",2022
+"Synthetic Runtime Monitoring of Microservices Software Architecture","10.1109/COMPSAC.2018.10274",2018
+"Research on Microservice Application Testing System","10.1109/ICISCAE51034.2020.9236829",2020
+"Lihonga — A Microservice-Based Virtual Learning Environment","10.1109/ICALT.2018.00030",2018
+"Microservices Integrated Performance and Reliability Testing","10.1145/3524481.3527233",2022
+"Automation of regression test in microservice architecture","10.1109/ICWR.2018.8387249",2018
+"A simple, lightweight framework for testing RESTful services with TTCN-3","10.1109/QRS-C51114.2020.00089",2020
+"Design and implementation of online judgment system based on microservice architecture and Docker","10.1109/AEMCSE55572.2022.00150",2022
+"An Automatic Test Data Generation Method for Microservice Application","10.1109/ICCEA50009.2020.00048",2020
+"Comparison of Runtime Testing Tools for Microservices","10.1109/COMPSAC.2019.10232",2019
+"Testing Microservices Architecture-Based Applications: A Systematic Mapping Study","10.1109/APSEC51365.2020.00020",2020
+"Policy enforcement upon software based on microservice architecture","10.1109/SERA.2017.7965739",2017
+"Run-Time Reliability Estimation of Microservice Architectures","10.1109/ISSRE.2018.00014",2018
+"Inferring Relations Among Test Programs in Microservices Applications","10.1109/SOSE52839.2021.00018",2021
+"Applying Change Impact Analysis Test to Migration Test Case Extraction Based on IDAU and Graph Analysis Techniques","10.1109/ICSTW.2019.00041",2019
+"Architecting Continuous Integration and Continuous Deployment for Microservice Architecture","10.1109/INFOTEH51037.2021.9400696",2021
+"EMB: A Curated Corpus of Web/Enterprise Applications And Library Support for Software Testing Research","10.1109/ICST57152.2023.00047",2023
+"Telemetry-Based Software Failure Prediction by Concept-Space Model Creation","10.1109/QRS57517.2022.00030",2022
+"Automated Fault-Tolerance Testing","10.1109/ICSTW.2016.34",2016
+"Smoke Testing of Cloud Systems","10.1109/ICST53961.2022.00016",2022
+"An Open-Source Cloud Testbed for Security Experimentation","10.1109/CCGrid54584.2022.00086",2022
+"Design Quality Measurement for Service Oriented Software on Service Computing System: a Systematic Literature Review","10.1109/ICITSI.2018.8696092",2018
+"RESTful API Automated Test Case Generation","10.1109/QRS.2017.11",2017
+"RESTTESTGEN: Automated Black-Box Testing of RESTful APIs","10.1109/ICST46399.2020.00024",2020
+"The Next Level of Test Automation (NEXTA 2020)","10.1109/ICSTW50294.2020.00013",2020

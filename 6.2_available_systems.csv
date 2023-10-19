@@ -1,0 +1,33 @@
+System,Testing Studie Ids,Tracing Studie Ids,#Studies Testing,#Studies Tracing,#Studies,Available,OSS,Micro-service,Link
+"AWS demo","T84","",1,0,1,1,1,1,https://github.com/aws-samples/aws-microservices-deploy-options
+"Book Info","T77","M46",1,1,2,1,1,1,https://github.com/istio/istio/tree/master/samples/bookinfo
+"ChaosEcho","","M178",0,1,1,1,1,0,https://github.com/di-unipi-socc/chaos-echo
+"CloudStore","","M1320",0,1,1,1,1,0,https://github.com/CloudScale-Project/CloudStore
+"Corona Warn App","T4","",1,0,1,1,1,1,https://github.com/corona-warn-app
+"customers and orders","T83","",1,0,1,1,1,1,https://github.com/eventuate-tram/eventuate-tram-sagas-examples-customers-and-orders 
+"DeathStarBench","","M109, M541, M591, M640, M7, M53",0,6,6,1,1,1,http://microservices.ece.cornell.edu/
+"Elgg","","M1559",0,1,1,1,1,0,https://elgg.org/
+"EMB","T493, T84, T599, T729, T36, T423, T1685, T342, T366, T26, T28, T412, T398, T396, T451, T480","",16,0,16,1,1,0,https://github.com/EMResearch/EMB
+"ERC-20 RESTful service","T396","",1,0,1,1,1,0,https://github.com/web3labs/erc20-rest-service
+"E-Shopper","","M464, M1676",0,2,2,1,0,0,https://github.com/SEALABQualityGroup/E-Shopper
+"FTGO","T45","",1,0,1,1,1,1,https://github.com/microservices-patterns/ftgo-application
+"Full Teaching","T12, T30","",2,0,2,1,1,0,https://github.com/OpenVidu/full-teaching
+"Hipstershop","T353","M93, M485, M620, M679, M1173",1,5,6,1,1,1,https://github.com/census-ecosystem/opencensus-microservices-demo
+"Jenkins","T1505","",1,0,1,1,1,0,https://www.jenkins.io/
+"OnlineBoutique","","M52, M582",0,2,2,1,1,1,https://github.com/GoogleCloudPlatform/microservices-demo
+"OpenMRS","","M1320",0,1,1,1,1,0,https://openmrs.org/
+"Petstore","T434, T1369, T342","",3,0,3,1,1,0,https://github.com/swagger-api/swagger-petstore
+"Piggy Metrics","T37, T43","M785",2,1,3,1,1,1,https://github.com/sqshq/piggymetrics
+"Prestashop","T1332","",1,0,1,1,1,0,https://github.com/PrestaShop/PrestaShop
+"PyMicro","","M5, M21, M84, M760",0,4,4,1,1,1,https://github.com/rshriram/pymicro
+"restaurant management","T83","",1,0,1,1,1,1,https://github.com/eventuate-examples/eventuate-examples-restaurant-management
+"Rideshare","T19, T33","",2,0,2,1,1,1,https://github.com/AITestingOrg/microservices-sandbox
+"RobotShop","","M97",0,1,1,1,1,1,https://github.com/instana/robot-shop
+"Sock Shop","T193, T256, T65, T45","M3, M8, M11, M15, M37, M49, M55, M66, M74, M102, M405, M450, M478, M560, M731, M1319, M52, M80, M1559, M785",4,20,24,1,1,1,https://github.com/microservices-demo/microservices-demo
+"SockPong","","M690",0,1,1,1,1,1,https://github.com/di-unipi-socc/failure-causalities/tree/main/data/pongFiles/src
+"T2","","M19",0,1,1,1,1,1,https://github.com/t2-project/t2-project
+"Tea Store","T65, T74, T85, T4","M670, M1320, M1559",4,3,7,1,1,1,https://github.com/DescartesResearch/TeaStore
+"Train Ticket","T7, T402, T549, T1625, T30, T39, T43, T45","M10, M12, M14, M17, M29, M56, M57, M62, M80, M112, M487, M498, M584, M592, M626, M707, M46, M464, M670, M785",8,20,28,1,1,1,https://github.com/FudanSELab/train-ticket
+"Transaction service","T83","",1,0,1,1,1,1,https://github.com/cer/event-sourcing-examples
+"VMAMV-Cinema","T378","",1,0,1,1,1,1,https://github.com/stanley2058/VMAMV-Cinema
+"Wordpress with Elasticsearch plugin","T110","",1,0,1,1,1,0,https://wordpress.org/plugins/elasticpress/#description
