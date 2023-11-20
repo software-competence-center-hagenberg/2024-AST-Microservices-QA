@@ -1,0 +1,61 @@
+
+
+Train_Ticket     "T7", "T30", "T39", "T43", "T45", "T402", "T549", "T1625"
+Sock_Shop        "T45", "T65", "T193", "T256"
+Tea_Store        "T4", "T65", "T74", "T85"
+DeathStarBench   -
+Hipstershop      "T353"
+PyMicro          -
+Piggy_Metrics    "T37", "T43"
+OnlineBoutique   -
+Rideshare        "T19", "T33"
+
+
+
+solution proposals:
+
+test case generation
+    ex-vivo testing               T37, T39, T43            Train_Ticket, Piggy_Metrics   
+	reliability testing           T7, T39, T353, T549     Train_Ticket, Hipstershop
+    performance testing           T7, T256                  Train_Ticket, Sock_Shop
+	combinatorial                 T45, T402                 Train_Ticket, Sock_Shop
+
+test case selection               T4, T30                   Train_Ticket, Tea_Store
+ 
+debugging                         T1625                      Train_Ticket
+
+
+validation research:
+
+comparing tools                   T19, T33, T193           Sock_Shop, Rideshare
+
+fault tolerance                   T65, T74                  Sock_Shop, Tea_Store
+
+performance testing challenges    T85                        Tea_Store      
+
+
+
+
+
+Train_Ticket     test case generation(ex-vivo testing, reliability testing, performance testing, combinatorial), test case selection, debugging
+Sock_Shop        test case generation(performance testing, combinatorial), comparing tools, fault tolerance 
+Tea_Store        test case selection, fault tolerance, performance testing challenges
+DeathStarBench   -
+Hipstershop      test case generation(performance testing)
+PyMicro          -
+Piggy_Metrics    test case generation(ex-vivo testing)
+OnlineBoutique   -
+Rideshare        comparing tools
+
+data:
+- T30: https://github.com/IASI-SAKS/hyperion/releases/tag/journal: approach source code
++ T43: https://gitlab.com/learnERC/exvivomicrotest: scenarios to execute against services both systems; https://doi.org/10.5281/zenodo.6351506: PDF with additional graphs
+- T45: https://github.com/uDEVOPS2020/uTest: approach source code
+- T85: https://zenodo.org/records/3666235: approach source code, httpLoadGenerator (https://github.com/joakimkistowski/HTTP-Load-Generator), result data
+- T256: https://doi.org/10.5281/zenodo.1256467: approach source code
++ T353: https://github.com/rkarn/automated-testing-resciliency: setup instructions for Hipstershop, YAML to inject different delays with Istio
+
+
+
+Other information:
+T65 and T74 same group

@@ -1,0 +1,311 @@
+
+
+Train_Ticket     "M10", "M12", "M14", "M17", "M29", "M46", "M56", "M57", "M62", "M80", "M112", "M487", "M498", "M584", "M591", "M592", "M626", "M707", "M464", "M670", "M785"
+Sock_Shop        "M3", "M8", "M11", "M15", "M37", "M49", "M55", "M66", "M74", "M102", "M405", "M450", "M478", "M560", "M731", "M1319", "M52", "M80", "M1559", "M785"
+Tea_Store        "M670", "M1320", "M1559"
+DeathStarBench   
+  Social Network      "M7", "M53", "M109", "M541", "M591", "M640"
+  Media Service       "M7", "M109", "M541", "M591", "M640"
+  Hotel Reservation   "M7", "M109", "M541", "M591", "M640"
+Hipstershop      "M93", "M485", "M620", "M679", "M1173"
+PyMicro          "M5", "M21", "M84", "M760"
+Piggy_Metrics    "M785"
+OnlineBoutique   "M52", "M582"
+Rideshare        -
+
+
+
+solution proposals:
+	
+anomaly detection  
+	?                            M3, M21, M74, M84, M620, M1173 (not clear which faults)                 Sock_Shop, Hipstershop, PyMicro             
+    fault (i.e., bug)		     M15, M17                                                                Train_Ticket, Sock_Shop, Hipstershop
+		http-bad-request (4XX)              
+			change sources             M14, M626
+		incorrect responses 	       M560
+			Istio                      M56
+			change sources             M626
+		exceptions                     M485
+		business logic errors
+			change sources             M498
+		
+	failures                     M15, M17                                                                Train_Ticket, Sock_Shop, DeathStarBench (Social Network), Hipstershop, PyMicro, Piggy_Metrics, OnlineBoutique
+		service availablilty failure (5XX)  M53, M57, M487, M560, M582
+			Istio fault injection           M14, M62, M112
+			ChaosMesh                       M8, M592, M626
+			docker pause	                M52, M405
+			container shutdown              M760
+			change data records             M584
+		http-resource-not-found        
+			change sources                  M14, M80
+			permission change               M785
+	performance                        M7, M591, M640, M670, M1559                                       Train_Ticket, Sock_Shop, Tea_Store DeathStarBench, Hipstershop, Piggy_Metrics, OnlineBoutique
+		CPU hog                        M15, M57, M450, M485, M487, M560, M582, M707
+			stress-ng                  M11, M37, M49, M52, M55, M56, M62, M66, M109, M541, M1319
+			change sources             M80, M1320
+			ChaosBlade                 M46, M93, M498, M679
+			ChaosMesh                  M8, M102, M592, M626
+			StressLinux                M53   
+			stress                     M405
+			Pumba                      M478
+			locust                     M731
+		memory usage                   M15, M485, M487, M560
+			stress-ng                  M11, M49, M55, M66, M109, M541, M1319
+			change sources             M53, M80
+			ChaosBlade                 M498
+			ChaosMesh                  M8, M102, M592, M626
+			Pumba                      M478
+			locust                     M731
+		disk usage                     M15, M485
+			stress-ng                  M109
+			ChaosBlade                 M46, M498
+			Strace                     M679
+			change sources             M1320
+		network response delay         M5, M15, M57, M405, M450, M485, M487, M560, M582
+			tc                         M11, M66
+			tc-netem                   M109, M541
+			Istio delay                M52, M56, M62
+			ChaosBlade                 M46, M93, M498, M679
+			ChaosMesh                  M102, M592
+			change data records        M584
+			change sources             M464, M785, M1320
+			Pumba                      M478
+		DB delay					   M582
+	communication                                                                                        Train_Ticket, Sock_Shop, DeathStarBench(Social Network), Hipstershop, Piggy_Metrics 
+		package loss                   M15, M57, M485, M487, M707, M785
+			ChaosMesh                  M8, M592, M626
+		call frequency                 M450, M560
+			ChaosMesh                  M8
+			iPerf                      M53
+	opertations                                                                                          Train_Ticket
+		swap call order                
+			change data records        M584
+		add operation calls            
+			change data records        M584
+	Architecture smells			       M12, M29                                                          Train_Ticket
+
+
+validation research:
+
+Comparison of approaches
+anomaly detection 
+	fault (i.e., bug)              M10                                             Train_Ticket
+	failures                       M10                                             Train_Ticket
+	performance                    M10                                             Train_Ticket
+	Communication
+
+	
+How?
+	metrics                      M15, M49, M52, M55, M62, M80, M485, M560, M592, M1173, M1319 
+		performance              M3, M5, M7, M8, M11, M21, M66, M74, M84, M93, M102, M109, M112, M405, M450, M464, M478, M487, M498, M541, M582, M584, M620, M640, M670, M679, M707, M731, M760, M1320, M1559
+		call counts				 M8, M620 
+	topology                     M7, M8, M11, M12, M49, M52, M55, M66, M74, M102, M112, M405, M450, M485, M487, M560, M582, M707, M731, M760, M1173, M1319
+	logs                         M12, M14, M15, M17, M62, M112, M498, M707, M1320
+	traces                       M14, M17, M29, M37, M46, M53, M56, M57, M80, M109, M464, M487, M541, M584, M591, M626, M640, M670, M679, M785
+	
+
+microservice architecture:   (do all of them use anomaly detection? M29 does not)
+	anti-pattern detection in traces     M12, M29                               Train_Ticket
+
+
+Root Cause Analysis (RCA): some studies do RCA some do not mention it and only detect anomalies; do they not detect what causes the anomalies?
+	Y              M5, M7, M8, M11, M14, M15, M17, M21, M37, M46, M49, M52, M53, M55, M56, M57, M62, M66, M74, M84, M93, M102, M109, M405, M450, M478, M541, M560, M582, M592, M640, M670, M679, M707, M731, M760, M785, M1173, M1319, M1320   
+	N              M12, M29, M485, M487, M498, M584, M591, M620, M626, M1559
+	~              M3, M80, M112 (RCA not mentioned but fault locatization)
+	~              M464 (RCA not mentioned not sure if they do any)
+
+
+Anomaly detection and other information:
+M29 does not use anomaly detection
+M80 does not mention they do anomaly detection but a predictive machine learning model (which is kind of the same)
+M109 does not mention they do anomaly detection but clustering with unsupervised learning, which is a kind of anomaly detection
+M112 does not mention they do anomaly detection but they analyze error logs
+M560 does not mention they do anomaly detection but "fault diagnosis method based on correlation analysis", which is a kind of anomaly detection; they also mention "abnormal events"
+M670 does not mention they do anomaly detection but they are predicting performance degredation 
+M1559 does not mention they do anomaly detection but they are predicting performance degredation 
+M5, M21, M84 and M760: same group using PyMicro
+M17 and M80: same group (TODO similar faults classified different, need to look at them again) (M584 same instutution but only one author is the same)
+M74 and M405: same group, same apporach
+M109, M541 and M640: same group, same apporach
+M112 and M707: same group
+M670 and M1559: same instutution, 2 authors are the same; similar research
+
+
+Used Toolkits:
+stress (M405):  https://github.com/resurrecting-open-source-projects/stress
+tc (M11): https://linux.die.net/man/8/tc
+tc-netem (M109): https://man7.org/linux/man-pages/man8/tc-netem.8.html   (Network Emulation)
+stress-ng (M11): https://aur.archlinux.org/packages/stress-ng            (stress testing)
+locust (M102): https://github.com/locustio/locust
+Pumba (M478): https://github.com/alexei-led/pumba
+Strace (M679): https://strace.io
+ChaosBlade (M679): https://github.com/chaosblade-io/chaosblade            (Chaos Engineering Toolkit)
+Chaos Mesh: https://github.com/chaos-mesh/chaos-mesh                       (Chaos Engineering Toolkit)
+
+
+data:
++ M10: https://zenodo.org/records/6979726: trace data from Train_Ticket
+- M17: https://fudanselab.github.io/DeepTraLog/ (NO LONGER THERE)
+- M29: https://fudanselab.github.io/microservice-measurement//: approach source code, result data
++ M46: https://github.com/NetManAIOps/TraceAnomaly (data for TrainTicket from other work): training and testing data sets use to detect anomalies in traces
++ M56: https://github.com/NetManAIOps/TraceRCA: trace data for Train_Ticket
+- M80: https://fudanselab.github.io/Research-ESEC-FSE2019-AIOPS/: result data and additional description
+- M93: https://github.com/NetManAIOps/JumpStarter (open source dataset, not from one of our studies): not from one of our systesm
+- M450: https://github.com/alibaba/clusterdata: fault datasets provided by Alibaba Open Source, not from one of our studies
++ M464: https://github.com/SEALABQualityGroup/replication_delag/: trace data for Train_Ticket, result data
++ M478: https://github.com/AXinx/CausalRCA_code: monitoring data for Sock_Shop
+- M485: https://github.com/QAZASDEDC/TopoMAD: data not documented sufficiently
++ M582: https://github.com/IntelligentDDS/GIED: data used in study for OnlineBoutique: injected faults, data used: topology, ...
+- M584: https://fudanselab.github.io/TraceCRL/ (NO LONGER THERE)
++ M592: https://zenodo.org/records/6955909: D: monitoring data for Train_Ticket, and used faults for Train_Ticket
++ M626: https://fudanselab.github.io/PUTraceAD/: trace data from Train_Ticket
+- M670: https://codeocean.com/capsule/3316103/tree/v3: result data
+- M679: say they will make their stuff available after double-blind review, still in the published version
++ M1319: https://github.com/azamikram/rcd: monitoring data for Sock_Shop
++ M1320: https://doi.org/10.5281/zenodo.5659008: access logs and LoadTestDriver for Tea_Store
+
+
+
+
+
+
+Fault descriptions from papers:
+
+from M8:
+Availability Anomaly: an anomalous increase in the number of failed service invocations is indicative of an availability anomaly, which is typically caused by defects in the service or anomalies in the operating environment. 
+Performance Anomaly: performance anomaly is characterized by abnormal increases in service response times, typically resulting from resource anomalies (e.g., CPU, MEM). 
+Communication Anomaly: a communication anomaly characterized by a significant increase in the number of service requests or an increase in service packet loss, which is typically caused by network anomalies between services.
+
+
+from M12:
+Telemetry data can be categorized into three main formats:
+• Traces
+• Metrics, and
+• Logs.
+
+
+from M14:
+Fault types:
+a: service availablilty failure: 500 error                  (failure)
+b: http-bad-request: bad HTTP request, 400 error            (fault (=bug))
+c: http-resource-not-found: failure of missing resources    (failure)
+
+from M15:
+Fault types:
+• Change Fault: Such as system failures caused by software version change, configuration change, network change, etc.                        (failure)
+• Application Fault: Such as system failures caused by null value error, short-circuiting of exception statement etc. in programming code.   (fault (=bug))
+• System Resource Fault: Such as high node CPU utilization, insufficient memory, network delay or packet loss, disk I/O blocking, etc.       (failure, communication, performance)
+
+
+from M17:
+Fault types:
+• Asynchronous Interaction - faults caused by missing or improper coordination of asynchronous service invocations;                                                    (failure)
+• Multi-Instance - faults related to the existence of multiple instances of the same service at runtime;                                                               (failure)
+• Configuration - faults caused by improper or inconsistent configurations of services and/or environments (e.g., containers and virtual machines);                    (failure)
+• Monolithic - faults caused by internal implementations of individual services, which can cause failures even when the application is deployed in a monolithic mode.  (fault (=bug))
+
+from M52:
+Fault types:
+• Latency delay: add virtual service to increase response time        (performance)
+• CPU Hog: stressing the CPU                                          (performance)
+• Container Pause: use "docker pause"                                 (failure) 
+
+
+from M53:
+Fault types:
+• CPU Hog: stressing the CPU              (performance)
+• network congestion                      (communication)
+• memory leak                             (performance)
+• service failure                         (failure) 
+
+
+from M56:
+Fault types:
+• Application Bug: If there is an application bug, the responses from the faulty microservices can be incorrect. We use Istio [34] to randomly substitute some responses with wrong responses.                     (fault (=bug))
+• CPU Exhausted: Due to configuration errors or bursting requests, CPU can be exhausted, which causes long latency, low throughput or no response. We use stress-ng, a popular stress test tool, to exhaust CPU.   (performance)
+• Network Delay: When there is network jam, packet transmission requires more time, so latency of responses becomes longer. We use Istio to randomly delay requests.                                               (performance)
+
+M56 can be used as a motivation to use JSONMutator for mutation testing (Application Bug faults do it similar)
+
+
+from M62:
+Fault types:
+• Computing Resources Exhaustion: CPU utilization witn Stress-ng     (performance)
+• Network Transmission Delay                                         (performance)
+• Network Transmission Abortion                                      (failure, communication)
+
+
+from M66:
+Fault types:
+• Network Transmission Delay                                   (performance)
+• CPU hog: with stress-ng                                      (performance)
+• Memory leak: with stress-ng to allocate memory continuously  (performance)
+
+
+from M80:
+Fault types:
+Multi-Instance Faults.            (failure)
+Configuration Faults.             (failure, performance)
+Asynchronous Interaction Faults.  (failure)
+
+
+from M405:
+Fault types:
+• CPU exhausting: stressing the CPU   (performance)
+• NetworkJam: traffic delay           (performance)
+• Container Pause                     (failure) 
+
+
+from M450:
+Fault types:
+• CPU HOG: We inject high CPU load through faults to increase CPU utilization    (performance)
+• Latency: We increase the network delay between the microservice components     (performance)
+• Throughput: We increase the request concurrency through the script programs    (communication)
+
+
+from M498:
+Fault types:
+• ChaosBlade: CPU, memory and network latency           (performance)
+• modify the source code to inject business faults      (fault (=bug))
+
+
+from M560:
+Fault types:
+• The microservice is not available        (failure) 
+• The request failed                       (failure) 
+• HTTP abnormal response                   (fault (=bug))
+• The call frequency is too high           (communication)
+• multiple resource usage and delays       (performance)
+
+
+from M584:
+Fault types: 
+• Network Delay                                                                                                                                                                                                                                                                            (performance)
+• Performance Degradation                                                                                                                                                                                                                                                                  (performance)
+• Response Status Code Change: from 200 to 500                                                                                                                                                                                                                                             (failure) 
+• Swap of Operation: Randomly select two nodes from the operation invocation graph except the entry node and swap the two nodes to simulate the change of operation execution order.                                                                                                       (opertations)
+• Unexpected Invocation: Randomly add a node to the operation invocation graph together with an edge from an randomly selected existing node to the new node with randomly assigned edge attributes or randomly change the attribute of a node to simulate unexpected service invocation.  (opertations)
+• Invocation Interruption: Randomly remove a node from the operation invocation graph to simulate service invocation interruption.                                                                                                                                                         (failure) 
+
+
+from M592:
+Fault types: 
+• CPU/memory stress       (performance)
+• packet loss or delay    (communication, performance)
+• pod failure             (failure) 
+
+
+from M626:
+Fault types: 
+• Network Fault: network loss, network delay, network partition              (failure, performance, communication)
+• Pod Fault: pod failure, pod kill, CPU stress, memorystress                 (failure, performance)
+• Application Fault: service invocation failure, incorrect return results    (fault (=bug))
+
+
+from M785:
+Fault types:
+• Packet loss of networks                                            (communication)
+• Configuration fault: access permission of MySQL as read-only       (failure)
+• Response time delay                                                (performance)
+
+
